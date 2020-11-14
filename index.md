@@ -12,7 +12,7 @@ My name is Liu Ruofan, I am fresh graduate from National University of Singapore
 
 ### Awards
 - Graduated from NUS with Honours (Highest Distinction) in Statistics and minor in Economics
-- Lijen Industrial Development Medal(Best Academic Exercise/Projects in the Discipline) in Academic Year 2019,
-- NTUC Medal in Academic Year 2019, 
-- Saw Swee Hock Gold Medal in Academic Year 2019,
+- Lijen Industrial Development Medal(Best Academic Exercise/Projects in the Discipline) in Academic Year 2019
+- NTUC Medal in Academic Year 2019
+- Saw Swee Hock Gold Medal in Academic Year 2019
 - SNAS Award 2020 
