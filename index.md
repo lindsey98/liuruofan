@@ -24,4 +24,4 @@ My name is Liu Ruofan, I am fresh graduate from National University of Singapore
 
 ### Contacts 
 - Email: kelseyliu1998@gmail.com
-- LinkedIn: <a href=www.linkedin.com/in/ruofanliu>www.linkedin.com/in/ruofanliu</a>
+- LinkedIn: <a href="www.linkedin.com/in/ruofanliu">www.linkedin.com/in/ruofanliu</a>
