@@ -1,7 +1,7 @@
 
 
 ## Welcome my homepage
-<p align="center">
+<p align="left">
 <img src="IMG_1877.JPG" height="200">
 </p>
 
