@@ -21,3 +21,7 @@ My name is Liu Ruofan, I am fresh graduate from National University of Singapore
 - NTUC Medal in Academic Year 2019
 - Saw Swee Hock Gold Medal in Academic Year 2019
 - SNAS Award 2020 
+
+### Contacts 
+Email: kelseyliu1998@gmail.com
+LinkedIn: www.linkedin.com/in/ruofanliu
