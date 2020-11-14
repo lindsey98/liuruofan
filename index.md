@@ -2,7 +2,7 @@
 
 ## Welcome my homepage
 <p align="center">
-<img src="IMG_1877.JPG">
+<img src="IMG_1877.JPG" width="500" height="600">
 </p>
 
 My name is Liu Ruofan, I am fresh graduate from National University of Singapore. I am incoming CS PhD candidate under the supervision of Prof. Dong Jinsong. I am currently working as a Cyber Security Research Assistant in Singtel-NUS Cybersecurity Research Lab. My research interest is in AI’s application in cybersecurity. 
