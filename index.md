@@ -23,5 +23,5 @@ My name is Liu Ruofan, I am fresh graduate from National University of Singapore
 - SNAS Award 2020 
 
 ### Contacts 
-Email: kelseyliu1998@gmail.com
-LinkedIn: www.linkedin.com/in/ruofanliu
+- Email: kelseyliu1998@gmail.com
+- LinkedIn: <a href=www.linkedin.com/in/ruofanliu>www.linkedin.com/in/ruofanliu</a>
