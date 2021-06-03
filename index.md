@@ -14,10 +14,11 @@ My name is Liu Ruofan, I am a fresh graduate from National University of Singapo
 
 
 ### Awards
-- Lijen Industrial Development Medal(Best Academic Exercise/Projects in the Discipline) in Academic Year 2019
+- Top 1 student in NUS Statistics Batch 2020
+- Lijen Industrial Development Medal (Best Academic Exercise/Projects in the Discipline) in Academic Year 2019
 - NTUC Medal in Academic Year 2019
 - Saw Swee Hock Gold Medal in Academic Year 2019
-- SNAS Award 2020 
+- SNAS Award 2020 (Singapore National Academy of Science)
 
 ### Contacts 
 - Email: e0134091@u.nus.edu
