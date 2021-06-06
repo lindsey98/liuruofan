@@ -5,7 +5,7 @@
 <img src="IMG_1877.JPG" height="200">
 </p>
 
-My name is Liu Ruofan, I am a fresh graduate from National University of Singapore Statistics major. I am incoming CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) mentored by Dr. [Lin Yun](http://linyun.info/index.html). I am currently working as a Cyber Security Research Assistant in Singtel-NUS Cybersecurity Research Lab. My research interest is AI’s application in cybersecurity. 
+My name is Liu Ruofan, I am a fresh graduate from National University of Singapore Statistics major. I am incoming CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and mentored by Dr. [Lin Yun](http://linyun.info/index.html). I am currently working as a Cyber Security Research Assistant in Singtel-NUS Cybersecurity Research Lab. My research interest is AI’s application in cybersecurity. 
 
 
 ### Publications 
