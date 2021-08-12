@@ -10,7 +10,7 @@ My name is Liu Ruofan, I am a fresh graduate from National University of Singapo
 
 ### Publications 
 
-- Yun Lin, Ruofan Liu, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages (USENIX Security 2021), to appear [pdf](http://linyun.info/publications/usenix21.pdf), [video](https://www.youtube.com/watch?v=-DlaLALXDnM). 
+- Yun Lin, Ruofan Liu, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages (USENIX Security 2021), [pdf](http://linyun.info/publications/usenix21.pdf), [video](https://www.youtube.com/watch?v=-DlaLALXDnM), [code](https://github.com/lindsey98/Phishpedia). 
 
 
 ### Awards
