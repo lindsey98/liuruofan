@@ -8,7 +8,7 @@
 My name is Liu Ruofan, I am a fresh graduate from National University of Singapore Statistics major. I am incoming CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and mentored by Dr. [Lin Yun](http://linyun.info/index.html). I am currently working as a Cyber Security Research Assistant in Singtel-NUS Cybersecurity Research Lab. My research interest is AI’s application in cybersecurity. 
 
 ### News
-- Our paper "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach" is accepted by USENIX Security'22, [code](https://github.com/lindsey98/PhishIntention).
+- <img src="icon_new.gif"> Our paper "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach" is accepted by USENIX Security'22, [code](https://github.com/lindsey98/PhishIntention).
 
 ### Publications 
 - Xianglin Yang#, Yun Lin#, Ruofan Liu, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training. AAAI 2022.
