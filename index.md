@@ -16,6 +16,7 @@ My name is Liu Ruofan, I am a fresh graduate from National University of Singapo
 
 
 ### Awards
+- NUS SoC Research Achievement Award in 2021/2022 Sem 1
 - Top 1 student in NUS Statistics Batch 2020
 - Lijen Industrial Development Medal (Best Academic Exercise/Projects in the Discipline) in Academic Year 2019
 - NTUC Medal in Academic Year 2019
