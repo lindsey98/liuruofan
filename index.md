@@ -8,10 +8,10 @@
 My name is Liu Ruofan, I am a fresh graduate from National University of Singapore Statistics major. I am incoming CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and mentored by [Prof. Lin Yun](http://linyun.info/index.html). I am currently working as a Cyber Security Research Assistant in Singtel-NUS Cybersecurity Research Lab. My research interest is AI’s application in cybersecurity. 
 
 ### News
-- <img src="icon_new.gif"> Our paper "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach" is accepted by USENIX Security'22, [pdf](publications/phishing_intention.pdf), [code](https://github.com/lindsey98/PhishIntention).
+- 02-2022 <img src="icon_new.gif"> Our paper "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach" is accepted by USENIX Security'22, [pdf](publications/phishing_intention.pdf), [code](https://github.com/lindsey98/PhishIntention).
 
 ### Publications 
-- Xianglin Yang#, Yun Lin#, Ruofan Liu, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training. AAAI 2022.
+- Xianglin Yang#, Yun Lin#, Ruofan Liu, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training. AAAI 2022. [pdf](http://linyun.info/publications/deepvisualinsight-aaai22.pdf), [website](https://sites.google.com/view/deepvisualinsight/home), [video](https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27).
 - Yun Lin#, Ruofan Liu#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages (USENIX Security 2021), [pdf](http://linyun.info/publications/usenix21.pdf), [video](https://www.youtube.com/watch?v=-DlaLALXDnM), [code](https://github.com/lindsey98/Phishpedia). 
 
 
@@ -24,5 +24,5 @@ My name is Liu Ruofan, I am a fresh graduate from National University of Singapo
 - SNAS Award 2020 (Singapore National Academy of Science)
 
 ### Contacts 
-- Email: e0134091@u.nus.edu
+- Email: e0134091[at]u[dot]nus[dot]edu
 - Github page: https://github.com/lindsey98/
