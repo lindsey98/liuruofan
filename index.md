@@ -5,7 +5,7 @@
 <img src="IMG_1877.JPG" height="200">
 </p>
 
-My name is Liu Ruofan, I am a fresh graduate from National University of Singapore Statistics major. I am incoming CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and mentored by [Prof. Lin Yun](http://linyun.info/index.html). I am currently working as a Cyber Security Research Assistant in Singtel-NUS Cybersecurity Research Lab. My research interest is AI’s application in cybersecurity. 
+My name is Liu Ruofan, I obtained my Bachelor in National University of Singapore Statistics major. I am now a second year CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and mentored by [Prof. Lin Yun](http://linyun.info/index.html). I am currently working as a Cyber Security Research Assistant in Singtel-NUS Cybersecurity Research Lab. My research interest is AI’s application in cybersecurity. 
 
 ### News
 - 02-2022 <img src="icon_new.gif"> Our paper "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach" is accepted by USENIX Security'22, [pdf](publications/phishing_intention.pdf), [code](https://github.com/lindsey98/PhishIntention).
@@ -26,3 +26,5 @@ My name is Liu Ruofan, I am a fresh graduate from National University of Singapo
 ### Contacts 
 - Email: e0134091[at]u[dot]nus[dot]edu
 - Github page: https://github.com/lindsey98/
+- Google Scholar: https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en
+- LinkedIn: www.linkedin.com/in/ruofanliu
