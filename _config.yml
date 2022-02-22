@@ -1,10 +1,9 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Liu Ruofan
-# Your name to show in the footer
+title: <u>Liu</u> Ruofan, 刘若凡
 author: Liu Ruofan
 description: This is a personal website for Liu Ruofan 
 social-network-links:
-  email: "kelseyliu1998@gmail.com"
+  email: "liu.ruofan16@u.nus.edu"
   linkedin: "www.linkedin.com/in/ruofanliu"
