@@ -1,7 +1,7 @@
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: <u>Liu</u> Ruofan, <u>刘</u>若凡
+# title: <u>Liu</u> Ruofan, <u>刘</u>若凡
 author: Liu Ruofan
 description: This is a personal website for Liu Ruofan 
 social-network-links:
