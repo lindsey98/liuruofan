@@ -7,11 +7,12 @@
 
 My name is Liu Ruofan, I obtained my Bachelor in National University of Singapore Statistics major. I am now a second year CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/) and mentored by [Prof. Lin Yun](http://linyun.info/index.html). My research interest is AI’s application in cybersecurity. 
 
-<!-- ### News -->
-<!-- - 02-2022 <img src="icon_new.gif"> Our paper "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach" is accepted by USENIX Security'22,  -->
+### News 
+<img src="icon_new.gif"> Our paper Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective has been accepted to NeurIPS 2022! 
 
 ### Publications 
-- Xianglin Yang, Yun Lin, Ruofan Liu, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. IJCAI 2022, [code](https://github.com/xianglinyang/SingleVisualization), [website](https://sites.google.com/view/timevis/home).
+- Ruofan Liu, Yun Lin, Xianglin Yang, Jin Song Dong. Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective. NeurIPS 2022, [code](https://github.com/lindsey98/Influence_function_metric_learning), [website](https://sites.google.com/view/empirical-influence-function/).
+- Xianglin Yang, Yun Lin, Ruofan Liu, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. IJCAI 2022, [pdf](http://linyun.info/publications/ijcai22.pdf), [code](https://github.com/xianglinyang/SingleVisualization), [website](https://sites.google.com/view/timevis/home).
 - Ruofan Liu, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach (USENIX Security 2022), [pdf](http://linyun.info/publications/usenix22.pdf), [website](https://sites.google.com/view/phishintention/home), [code](https://github.com/lindsey98/PhishIntention).
 - Xianglin Yang#, Yun Lin#, Ruofan Liu, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training. AAAI 2022. [pdf](http://linyun.info/publications/deepvisualinsight-aaai22.pdf), [website](https://sites.google.com/view/deepvisualinsight/home), [video](https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27), [code](https://github.com/xianglinyang/DeepVisualInsight).
 - Yun Lin#, Ruofan Liu#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages (USENIX Security 2021), [pdf](http://linyun.info/publications/usenix21.pdf), [video](https://www.youtube.com/watch?v=-DlaLALXDnM), [website](https://sites.google.com/view/phishpedia-site/home), [code](https://github.com/lindsey98/Phishpedia). 
