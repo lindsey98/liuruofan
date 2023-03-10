@@ -4,7 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## Publications
 
 ==== 2023 ========
 - Xiaoning Ren, Yun Lin, Yinxing Xue, **Ruofan Liu**, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. ICSE 2023. [pdf](http://linyun.info/publications/icse23.pdf).
