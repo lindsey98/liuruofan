@@ -10,7 +10,7 @@ redirect_from:
 
 ## Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's homepage
 <p align="center">
-<img src="IMG_1877.JPG" height="200">
+<img src="mypic.JPG" height="200">
 </p>
 
 My name is <u>Liu</u> Ruofan, I obtained my Bachelor in National University of Singapore Statistics major. I am now a second year CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/). My research interest is AI’s application in cybersecurity. 
