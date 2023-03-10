@@ -31,11 +31,7 @@ My research interest is AI’s application in Cybersecurity.
 - Saw Swee Hock Gold Medal in Academic Year 2019
 - SNAS Award 2020 (Singapore National Academy of Science)
 
-### Services
-- 
-
 ### Contacts 
 - Email: liu.ruofan16[at]u[dot]nus[dot]edu
 - Github page: https://github.com/lindsey98/
 - Google Scholar: https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en
-- LinkedIn: www.linkedin.com/in/ruofanliu
