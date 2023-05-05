@@ -17,6 +17,7 @@ My research interest is AI’s application in Cybersecurity.
 <img src="_pages/icon_new.gif"> Our paper "DeepArc: Modularizing Neural Networks for the Model Maintenance" has been accepted to ICSE 2023! 
 
 ### Selected Publications
+| Title | Venue | Website | pdf | Code | Video |
 - **Ruofan Liu**, Yun Lin, Xianglin Yang, Jin Song Dong. Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective. NeurIPS 2022. [code](https://github.com/lindsey98/Influence_function_metric_learning), [website](https://sites.google.com/view/empirical-influence-function/), [pdf](http://linyun.info/publications/neurips22.pdf), [video](https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4).
 - Xianglin Yang, Yun Lin, **Ruofan Liu**, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. IJCAI 2022. [pdf](http://linyun.info/publications/ijcai22.pdf), [code](https://github.com/xianglinyang/SingleVisualization), [website](https://sites.google.com/view/timevis/home).
 - **Ruofan Liu**, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. USENIX Security 2022. [pdf](http://linyun.info/publications/usenix22.pdf), [website](https://sites.google.com/view/phishintention/home), [code](https://github.com/lindsey98/PhishIntention).
