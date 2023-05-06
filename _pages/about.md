@@ -56,7 +56,7 @@ My research interest is AI’s application in Cybersecurity.
       <td> <b>Ruofan Liu</b>, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. USENIX Security 2022 </td>
       <td> <a href="https://sites.google.com/view/phishintention/home">website</a> <a href="http://linyun.info/publications/usenix22.pdf">pdf</a> </td>
       <td> <a href="https://github.com/lindsey98/PhishIntention">PhishIntention</a> <img src="https://img.shields.io/github/stars/lindsey98/PhishIntention.svg"></td>
-      <td> <a href="https://youtu.be/yU7FrlSJ818">video</a> <img src="https://img.shields.io/youtube/views/yU7FrlSJ818?style=social"></td>
+      <td> <a href="https://youtu.be/yU7FrlSJ818">video</a> <img src="https://img.shields.io/youtube/views/yU7FrlSJ818?style=social" width="200"></td>
     </tr>
     <tr>
       <td> Xianglin Yang#, Yun Lin#, <b>Ruofan Liu</b>, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training. AAAI 2022 </td>
@@ -68,7 +68,7 @@ My research interest is AI’s application in Cybersecurity.
       <td> Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages. USENIX Security 2021 </td>
       <td> <a href="https://sites.google.com/view/phishpedia-site/home">website</a> <a href="http://linyun.info/publications/usenix21.pdf"></a> </td>
       <td> <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a> <img src="https://img.shields.io/github/stars/lindsey98/Phishpedia.svg"> </td>
-      <td> <a href="https://youtu.be/ZQOH1RW5DmY">video</a> <img src="https://img.shields.io/youtube/views/ZQOH1RW5DmY?style=social"> </td>
+      <td> <a href="https://youtu.be/ZQOH1RW5DmY">video</a> <img src="https://img.shields.io/youtube/views/ZQOH1RW5DmY?style=social" width="200"> </td>
     </tr>
   </tbody>
 </table>
