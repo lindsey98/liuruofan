@@ -38,6 +38,7 @@ My research interest is AI’s application in Cybersecurity.
     </tr>
     <tr>
       <td> Xiaoning Ren, Yun Lin, Yinxing Xue, <b>Ruofan Liu</b>, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. ICSE 2023 </td>
+      <td> -- </td>
       <td> <a href="http://linyun.info/publications/icse23.pdf">pdf</a> </td>
       <td> -- </td>
       <td> -- </td>
