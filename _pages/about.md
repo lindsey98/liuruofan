@@ -14,16 +14,68 @@ I am now a third year CS PhD candidate under the supervision of [Prof. Dong Jin 
 My research interest is AI’s application in Cybersecurity. 
 
 ### News 
-<img src="icon_new.gif"> Our paper "Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection" has been accepted to Usenix Security 2023! 
+<img src="./_pages/icon_new.gif"> Our paper "Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection" has been accepted to Usenix Security 2023! 
 
 ### Selected Publications
-| Title | Venue | Website | pdf | Code | Video |
-| -- | -- | -- | -- | -- | -- |
-| **Ruofan Liu**, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. | USENIX Security 2023 | [website]() | [pdf]() | [Dynaphish](https://github.com/lindsey98/Dynaphish) | -- |
-| Xiaoning Ren, Yun Lin, Yinxing Xue, **Ruofan Liu**, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. | ICSE 2023 | -- | [pdf](http://linyun.info/publications/icse23.pdf) | -- | -- |
-| **Ruofan Liu**, Yun Lin, Xianglin Yang, Jin Song Dong. Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective. | NeurIPS 2022 | [website](https://sites.google.com/view/empirical-influence-function/) | [pdf](http://linyun.info/publications/neurips22.pdf) | [Influence4Metric](https://github.com/lindsey98/Influence_function_metric_learning) [![Stars](https://img.shields.io/github/stars/lindsey98/Influence_function_metric_learning.svg)](https://github.com/lindsey98/Influence_function_metric_learning/stargazers) | [video](https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4) |
-| Xianglin Yang, Yun Lin, **Ruofan Liu**, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. | IJCAI 2022 | [website](https://sites.google.com/view/timevis/home) | [pdf](http://linyun.info/publications/ijcai22.pdf) | [TimeVis](https://github.com/xianglinyang/SingleVisualization) [![Stars](https://img.shields.io/github/stars/xianglinyang/SingleVisualization.svg)](https://github.com/xianglinyang/SingleVisualization/stargazers) |
-| **Ruofan Liu**, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. | USENIX Security 2022 | [website](https://sites.google.com/view/phishintention/home) | [pdf](http://linyun.info/publications/usenix22.pdf) | [PhishIntention](https://github.com/lindsey98/PhishIntention) [![Stars](https://img.shields.io/github/stars/lindsey98/PhishIntention.svg)](https://github.com/lindsey98/PhishIntention/stargazers) | [![](https://img.shields.io/youtube/views/yU7FrlSJ818?style=social)](https://youtu.be/yU7FrlSJ818) |
+<table  style="width:100%">
+  <thead>
+    <tr>
+      <th style="width:70%">Title</th>
+      <th>Venue</th>
+      <th>Website</th>
+      <th>pdf</th>
+      <th>Code</th>
+      <th>Video</th>
+    </tr>
+  </thead>
+  
+  <tbody>
+    <tr>
+      <td> <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. </td>
+      <td> USENIX Security 2023 </td>
+      <td> <a href="">website</a> </td>
+      <td> <a href="">pdf</a> </td>
+      <td> <a href="https://github.com/lindsey98/Dynaphish">Dynaphish</a> </td>
+      <td> -- </td>
+    </tr>
+    <tr>
+      <td> Xiaoning Ren, Yun Lin, Yinxing Xue, <b>Ruofan Liu</b>, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. </td>
+      <td> ICSE 2023 </td>
+      <td> <a href="http://linyun.info/publications/icse23.pdf">pdf</a> </td>
+      <td> -- </td>
+      <td> -- </td>
+      <td> -- </td>
+    </tr>
+    <tr>
+      <td> <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Jin Song Dong. Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective. </td>
+      <td> NeurIPS 2022 </td>
+      <td> <a href="https://sites.google.com/view/empirical-influence-function/">website</a> </td>
+      <td> <a href="http://linyun.info/publications/neurips22.pdf">pdf</a> </td>
+      <td> <a href="https://github.com/lindsey98/Influence_function_metric_learning">Influence4Metric</a> <img src="https://img.shields.io/github/stars/lindsey98/Influence_function_metric_learning.svg"> </td>
+      <td> <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4">video</a> </td>
+    </tr>
+    <tr>
+      <td> Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. </td>
+      <td> IJCAI 2022 </td>
+      <td> <a href="https://sites.google.com/view/timevis/home">website</a> </td>
+      <td> <a href="http://linyun.info/publications/ijcai22.pdf">pdf</a> </td>
+      <td> <a href="https://github.com/xianglinyang/SingleVisualization">TimeVis</a> <img src="https://img.shields.io/github/stars/xianglinyang/SingleVisualization.svg"></td>
+      <td> -- </td>
+    </tr>
+    <tr>
+      <td> <b>Ruofan Liu</b>, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. </td>
+      <td> USENIX Security 2022 </td>
+      <td> <a href="https://sites.google.com/view/phishintention/home">website</a> </td>
+      <td> <a href="http://linyun.info/publications/usenix22.pdf">pdf</a> </td>
+      <td> <a href="https://github.com/lindsey98/PhishIntention">PhishIntention</a> <img src="https://img.shields.io/github/stars/lindsey98/PhishIntention.svg"></td>
+      <td> </td>
+    </tr>
+    
+  </tbody>
+</table>
+
+
+ [PhishIntention]() [![Stars]()](https://github.com/lindsey98/PhishIntention/stargazers) | [![](https://img.shields.io/youtube/views/yU7FrlSJ818?style=social)](https://youtu.be/yU7FrlSJ818) |
 | Xianglin Yang#, Yun Lin#, **Ruofan Liu**, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training | AAAI 2022 | [website](https://sites.google.com/view/deepvisualinsight/home) | [pdf](http://linyun.info/publications/deepvisualinsight-aaai22.pdf) | [DeepVisualInsight](https://github.com/xianglinyang/DeepVisualInsight) [![Stars](https://img.shields.io/github/stars/xianglinyang/DeepVisualInsight.svg)](https://github.com/xianglinyang/DeepVisualInsight/stargazers) | [video](https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27) | 
 | Yun Lin#, **Ruofan Liu**#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages. | USENIX Security 2021 | [website](https://sites.google.com/view/phishpedia-site/home) | [pdf](http://linyun.info/publications/usenix21.pdf) | [Phishpedia](https://github.com/lindsey98/Phishpedia) [![Stars](https://img.shields.io/github/stars/lindsey98/Phishpedia.svg)](https://github.com/lindsey98/Phishpedia/stargazers) | [![](https://img.shields.io/youtube/views/ZQOH1RW5DmY?style=social)](https://youtu.be/ZQOH1RW5DmY) |
 
