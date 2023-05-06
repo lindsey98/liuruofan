@@ -20,7 +20,7 @@ My research interest is AI’s application in Cybersecurity.
 <table  style="width:100%">
   <thead>
     <tr>
-      <th style="width:70%">Title</th>
+      <th style="width:60%">Title</th>
       <th>Website, pdf</th>
       <th>Code</th>
       <th>Video</th>
