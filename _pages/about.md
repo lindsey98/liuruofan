@@ -30,7 +30,7 @@ My research interest is AI’s application in Cybersecurity.
   <tbody>
     <tr>
       <td> <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. USENIX Security 2023 </td>
-      <td> <a href="../files/DynaPhish_paper (11).pdf">pdf</a> </td>
+      <td> <a href="files/DynaPhish_paper%20(11).pdf">pdf</a> </td>
       <td> <a href="https://github.com/lindsey98/Dynaphish">Dynaphish</a> </td>
       <td> -- </td>
     </tr>
