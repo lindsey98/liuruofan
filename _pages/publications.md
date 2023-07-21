@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ==== 2023 ========
+- **Ruofan Liu**, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. USENIX Security 2023. [pdf](http://linyun.info/publications/usenix-sec23.pdf), [code](https://github.com/code-philia/Dynaphish).
 - Xiaoning Ren, Yun Lin, Yinxing Xue, **Ruofan Liu**, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. ICSE 2023. [pdf](http://linyun.info/publications/icse23.pdf).
 
 ==== 2022 ========
