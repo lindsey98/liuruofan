@@ -88,5 +88,5 @@ My research interest is AI’s application in Cybersecurity.
 - Github page: https://github.com/lindsey98/
 - Google Scholar: https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en
 
-<iframe src="https://www.clustrmaps.com/map_v2.js?d=K12ks9qpKWz0_1nk1JN_sUoLtQzFNgcvG7UgVelEElY&cl=ffffff&w=a" width="300" height="200" frameborder="0"></iframe>
+<iframe src="https://www.clustrmaps.com/map_v2.js?d=K12ks9qpKWz0_1nk1JN_sUoLtQzFNgcvG7UgVelEElY&cl=ffffff&w=a" width="100" height="70" frameborder="0"></iframe>
 
