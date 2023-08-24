@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 ## Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's homepage
-My name is <u>Liu</u> Ruofan, I obtained my Bachelor in National University of Singapore Statistics major. 
-I am now a third year CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/). 
+My name is <u>Liu</u> Ruofan, I obtained my Bachelor's in the National University of Singapore, Statistics. 
+I am now a third-year CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/). 
 My research interest is AI’s application in Cybersecurity. 
 
 ### News 
@@ -50,7 +50,7 @@ My research interest is AI’s application in Cybersecurity.
       <td> Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. IJCAI 2022 </td>
       <td> <a href="https://sites.google.com/view/timevis/home">website</a> <a href="http://linyun.info/publications/ijcai22.pdf">pdf</a> </td>
       <td> <a href="https://github.com/xianglinyang/SingleVisualization">TimeVis</a> <img src="https://img.shields.io/github/stars/xianglinyang/SingleVisualization.svg"></td>
-      <td> -- </td>
+      <td> <a href="https://www.ijcai.org/proceedings/2022/video/558">video</a> </td>
     </tr>
     <tr>
       <td> <b>Ruofan Liu</b>, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. USENIX Security 2022 </td>
@@ -73,20 +73,31 @@ My research interest is AI’s application in Cybersecurity.
   </tbody>
 </table>
 
-
+### Tools and Systems:
+- [Phishpedia](https://github.com/lindsey98/Phishpedia): An explainable reference-based phishing detector based on brand intention
+- [PhishIntention](https://github.com/lindsey98/PhishIntention): An explainable reference-based phishing detector phishing detector which considers both the brand intention and credential-taking intention
+- [Influence4Metric](https://github.com/lindsey98/Influence_function_metric_learning): An influence-function-based explanation and debugging tool for Deep Metric Learning Tasks
+- [DynaPhish](https://github.com/code-philia/Dynaphish): A complementary module for all reference-based phishing detectors with brand knowledge expansion and counterfactual interaction
+- [MyXDriver](https://github.com/lindsey98/MyXdriver_pub/): A selenium-based webdriver that supports automatic form filling, form submission, and suspicious behavior inspection 
 
 ### Awards
 - NUS SoC Research Achievement Award in 2021/2022 Sem 1
 - Top 1 student in NUS Statistics Batch 2020
 - Lijen Industrial Development Medal (Best Academic Exercise/Projects in the Discipline) in Academic Year 2019
 - NTUC Medal in Academic Year 2019
-- Saw Swee Hock Gold Medal in Academic Year 2019
+- Saw Swee Hock Gold Medal in the Academic Year 2019
 - SNAS Award 2020 (Singapore National Academy of Science)
+
+### Patent
+- Yun Lin, Ruofan Liu, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel)
+
+### Service
+Conference PC Membership
+- Year of 2023. Program Committee (PC) for the Fast Abstract Track on the 28th IEEE Pacific Rim International Symposium on Dependable Computing.
 
 ### Contacts 
 - Email: liu.ruofan16[at]u[dot]nus[dot]edu
 - Github page: https://github.com/lindsey98/
 - Google Scholar: https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en
 
-<iframe src="https://www.clustrmaps.com/map_v2.js?d=K12ks9qpKWz0_1nk1JN_sUoLtQzFNgcvG7UgVelEElY&cl=ffffff&w=a" width="100" height="70" frameborder="0"></iframe>
 
