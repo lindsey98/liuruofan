@@ -21,54 +21,54 @@ My research interest is AI’s application in Cybersecurity.
   <thead>
     <tr>
       <th style="width:60%">Title</th>
-      <th>Website, pdf</th>
-      <th>Code</th>
-      <th>Video</th>
+      <th style="width:5%">Paper & Slides</th>
+      <th style="width:30%">Code</th>
+      <th style="width:5%">Video</th>
     </tr>
   </thead>
   
   <tbody>
     <tr>
       <td> <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. USENIX Security 2023 </td>
-      <td> <a href="https://github.com/lindsey98/liuruofan/blob/gh-pages/files/DynaPhish_paper_f.pdf">pdf</a> </td>
+      <td> <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf">Paper</a> <a href="https://www.usenix.org/system/files/sec23_slides_liu-ruofan.pdf">Slides</a> </td>
       <td> <a href="https://github.com/code-philia/Dynaphish">Dynaphish</a> <img src="https://img.shields.io/github/stars/code-philia/Dynaphish.svg"> </td>
       <td> -- </td>
     </tr>
     <tr>
       <td> Xiaoning Ren, Yun Lin, Yinxing Xue, <b>Ruofan Liu</b>, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. ICSE 2023 </td>
-      <td> <a href="http://linyun.info/publications/icse23.pdf">pdf</a> </td>
+      <td> <a href="http://linyun.info/publications/icse23.pdf">Paper</a> </td>
       <td> <a href="https://github.com/hnurxn/Deep-Arc">DeepArc</a> <img src="https://img.shields.io/github/stars/hnurxn/Deep-Arc.svg"> </td>
       <td> -- </td>
     </tr>
     <tr>
       <td> <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Jin Song Dong. Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective. NeurIPS 2022 </td>
-      <td> <a href="https://sites.google.com/view/empirical-influence-function/">website</a> <a href="http://linyun.info/publications/neurips22.pdf">pdf</a> </td>
+      <td> <a href="http://linyun.info/publications/neurips22.pdf">Paper</a> <a href="https://nips.cc/media/PosterPapers/NeurIPS%202022/59b1deff341edb0b76ace57820cef237.png?t=1667448498.3856182">Poster</a> </td>
       <td> <a href="https://github.com/lindsey98/Influence_function_metric_learning">Influence4Metric</a> <img src="https://img.shields.io/github/stars/lindsey98/Influence_function_metric_learning.svg"> </td>
-      <td> <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4">video</a> </td>
+      <td> <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4">Video</a> </td>
     </tr>
     <tr>
       <td> Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. IJCAI 2022 </td>
-      <td> <a href="https://sites.google.com/view/timevis/home">website</a> <a href="http://linyun.info/publications/ijcai22.pdf">pdf</a> </td>
+      <td> <a href="http://linyun.info/publications/ijcai22.pdf">Paper</a> </td>
       <td> <a href="https://github.com/xianglinyang/SingleVisualization">TimeVis</a> <img src="https://img.shields.io/github/stars/xianglinyang/SingleVisualization.svg"></td>
-      <td> <a href="https://www.ijcai.org/proceedings/2022/video/558">video</a> </td>
+      <td> <a href="https://www.ijcai.org/proceedings/2022/video/558">Video</a> </td>
     </tr>
     <tr>
       <td> <b>Ruofan Liu</b>, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. USENIX Security 2022 </td>
-      <td> <a href="https://sites.google.com/view/phishintention/home">website</a> <a href="http://linyun.info/publications/usenix22.pdf">pdf</a> </td>
+      <td> <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf">Paper</a> <a href="https://www.usenix.org/system/files/sec22_slides-liu_ruofan.pdf">Slides</a>  </td>
       <td> <a href="https://github.com/lindsey98/PhishIntention">PhishIntention</a> <img src="https://img.shields.io/github/stars/lindsey98/PhishIntention.svg"></td>
-      <td> <a href="https://youtu.be/yU7FrlSJ818">video</a> <img src="https://img.shields.io/youtube/views/yU7FrlSJ818?style=social" width="200"></td>
+      <td> <a href="https://youtu.be/yU7FrlSJ818">Video</a> <img src="https://img.shields.io/youtube/views/yU7FrlSJ818?style=social" width="200"></td>
     </tr>
     <tr>
       <td> Xianglin Yang#, Yun Lin#, <b>Ruofan Liu</b>, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training. AAAI 2022 </td>
-      <td> <a href="https://sites.google.com/view/deepvisualinsight/home">website</a> <a href="http://linyun.info/publications/deepvisualinsight-aaai22.pdf">pdf</a> </td>
+      <td> <a href="http://linyun.info/publications/deepvisualinsight-aaai22.pdf">Paper</a> </td>
       <td> <a href="https://github.com/xianglinyang/DeepVisualInsight">DeepVisualInsight</a> <img src="https://img.shields.io/github/stars/xianglinyang/DeepVisualInsight.svg"> </td>
-      <td> <a href="https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27">video</a> </td>
+      <td> <a href="https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27">Video</a> </td>
     </tr>
     <tr>
       <td> Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages. USENIX Security 2021 </td>
-      <td> <a href="https://sites.google.com/view/phishpedia-site/home">website</a> <a href="http://linyun.info/publications/usenix21.pdf"></a> </td>
+      <td> <a href="https://www.usenix.org/system/files/sec21-lin.pdf">Paper</a>  <a href="https://www.usenix.org/system/files/sec21_slides_lin-yun.pdf">Slides</a> </td>
       <td> <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a> <img src="https://img.shields.io/github/stars/lindsey98/Phishpedia.svg"> </td>
-      <td> <a href="https://youtu.be/ZQOH1RW5DmY">video</a> <img src="https://img.shields.io/youtube/views/ZQOH1RW5DmY?style=social" width="200"> </td>
+      <td> <a href="https://youtu.be/ZQOH1RW5DmY">Video</a> <img src="https://img.shields.io/youtube/views/ZQOH1RW5DmY?style=social" width="200"> </td>
     </tr>
   </tbody>
 </table>
@@ -93,7 +93,7 @@ My research interest is AI’s application in Cybersecurity.
 - SNAS Award 2020 (Singapore National Academy of Science)
 
 ### Patent
-- Yun Lin, Ruofan Liu, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel)
+- Yun Lin, **Ruofan Liu**, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel)
 
 ### Service
 Conference PC Membership
@@ -101,7 +101,7 @@ Conference PC Membership
 
 ### Contacts 
 - Email: liu.ruofan16[at]u[dot]nus[dot]edu
-- Github page: https://github.com/lindsey98/
-- Google Scholar: https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en
+- GitHub page: [https://github.com/lindsey98/](https://github.com/lindsey98/)
+- Google Scholar: [https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en](https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en)
 
 
