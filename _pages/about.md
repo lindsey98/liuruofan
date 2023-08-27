@@ -21,9 +21,9 @@ My research interest is AI’s application in Cybersecurity.
   <thead>
     <tr>
       <th style="width:60%">Title</th>
-      <th style="width:10%">Paper & Slides</th>
+      <th style="width:5%">Paper & Slides</th>
       <th style="width:20%">Code</th>
-      <th style="width:10%">Video</th>
+      <th style="width:15%">Video</th>
     </tr>
   </thead>
   
