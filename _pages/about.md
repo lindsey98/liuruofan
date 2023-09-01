@@ -14,7 +14,7 @@ I am now a third-year CS PhD candidate under the supervision of [Prof. Dong Jin 
 My research interest is AI’s application in Cybersecurity. 
 
 ### News 
-<img src="./_pages/icon_new.gif"> Our paper "Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection" has been accepted to Usenix Security 2023! 
+:lemon::lemon: Our paper "Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection" has been accepted to Usenix Security 2023! 
 
 ### Selected Publications
 <table  style="width:100%">
@@ -97,7 +97,7 @@ My research interest is AI’s application in Cybersecurity.
 
 ### Service
 Conference PC Membership
-- Year of 2023. Program Committee (PC) for the Fast Abstract Track on the 28th IEEE Pacific Rim International Symposium on Dependable Computing.
+- Year of 2023. Program Committee (PC) for the 28th IEEE Pacific Rim International Symposium on Dependable Computing.
 
 ### Contacts 
 - Email: liu.ruofan16[at]u[dot]nus[dot]edu
