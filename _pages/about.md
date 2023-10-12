@@ -85,7 +85,7 @@ My research interest is AI’s application in Cybersecurity.
 
 ### Benchmark:
 - [Phishpedia 30K Phishing](https://drive.google.com/file/d/12ypEMPRQ43zGRqHGut0Esq2z5en0DH4g/view?usp=drive_link): The largest static benchmark for phishing identification, including URL, HTML, and screenshots.
-- [DynaPD 6K Phishing Kits](https://drive.google.com/file/d/1i1pIgjxEcrn0CkkT8vUwgBUJk8gqEp2y/view?usp=sharing), Setup Docs [for Windows](https://docs.google.com/document/d/1AakL78qt0uqtOFHgC9G_CWMFVyEEaOc35SLvW3YnYvA/edit?usp=sharing), [for Linux](https://docs.google.com/document/d/1yFWGoHIbnW-0lxZomOROXlRLjUTK9imDsR04ls94v88/edit?usp=sharing): The largest interactable, safe collection of phishing kits.
+- [DynaPD 6K Phishing Kits](https://ec2-18-206-250-207.compute-1.amazonaws.com/dynapd/): The largest interactable, safe collection of phishing kits.
 
 ### Awards
 - NUS SoC Research Achievement Award in 2021/2022 Sem 1
