@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 ## Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's homepage
-My name is <u>Liu</u> Ruofan, I obtained my Bachelor's in the National University of Singapore, Statistics. 
-I am now a third-year CS PhD candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/). 
-My research interest is AI’s application in Cybersecurity. 
+My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics. 
+I am now a fourth-year CS Ph.D. candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/). 
+My research interest is AI’s application in Web Security. 
 
 ### News 
-:lemon::lemon: Our paper "Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection" has been accepted to Usenix Security 2023! 
+
 
 ### Selected Publications
 <table  style="width:100%">
