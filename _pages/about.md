@@ -14,7 +14,7 @@ I am now a fourth-year CS Ph.D. candidate under the supervision of [Prof. Dong J
 My research interest is AI’s application in Web Security. 
 
 ### News 
-🍋🍋 Our work, "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models." has been accepted by USENIX Security 2024!
+🍋🍋 Our work, "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models." has been accepted by USENIX Security 2024! Congratulations to Xiwen!
 
 ### Selected Publications
 <table  style="width:100%">
