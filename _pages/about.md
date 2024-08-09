@@ -14,7 +14,8 @@ I am now a fourth-year CS Ph.D. candidate under the supervision of [Prof. Dong J
 My research interest is AI’s application in Web Security. 
 
 ### News 
-🍋🍋 Our work, "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models." has been accepted by USENIX Security 2024! Congratulations to Xiwen!
+🍋 Our work, "Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List." has been accepted by USENIX Security 2024!
+🍋 Our work, "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models." has been accepted by USENIX Security 2024! Congratulations to Xiwen!
 
 ### Selected Publications
 <table  style="width:100%">
@@ -28,6 +29,22 @@ My research interest is AI’s application in Web Security.
   </thead>
   
   <tbody>
+   <tr>
+      <td> <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang and Jin Song Dong. Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List. USENIX Security 2024 </td>
+      <td> <a href="http://linyun.info/publications/usenix-sec24b.pdf">Paper</a> <a href="">Slides</a> </td>
+      <td> 
+        <a href="https://github.com/code-philia/PhishLLM/">PhishLLM</a> <img src="https://img.shields.io/github/stars/code-philia/PhishLLM.svg"> 
+      </td>
+      <td> <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn">Video</a> <img src="https://img.shields.io/youtube/views/FwnLaJ-wglA?style=social&cache=0"> </td>
+    </tr>
+    <tr>
+      <td> Xiwen Teoh, Yun Lin, <b>Ruofan Liu</b>, Zhiyong Huang and Jin Song Dong. PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models. USENIX Security 2024 </td>
+      <td> <a href="http://linyun.info/publications/usenix-sec24a.pdf">Paper</a> <a href="">Slides</a> </td>
+      <td> 
+        <a href="https://github.com/code-philia/PhishDecloaker">PhishDecloaker</a> <img src="https://img.shields.io/github/stars/code-philia/PhishDecloaker"> 
+      </td>
+      <td> <a href="https://x.com/llmhyy/status/1801445397321420979">Video</a> </td>
+    </tr>
     <tr>
       <td> <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. USENIX Security 2023 </td>
       <td> <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf">Paper</a> <a href="https://www.usenix.org/system/files/sec23_slides_liu-ruofan.pdf">Slides</a> </td>
@@ -35,7 +52,7 @@ My research interest is AI’s application in Web Security.
         <a href="https://github.com/code-philia/Dynaphish">Dynaphish</a> <img src="https://img.shields.io/github/stars/code-philia/Dynaphish.svg"> 
         <a href="https://github.com/lindsey98/MyXdriver_pub/">MyXdriver</a> <img src="https://img.shields.io/github/stars/lindsey98/MyXdriver_pub.svg">
       </td>
-      <td> <a href="https://youtu.be/L-JrFWSnss0">Video</a> <img src="https://img.shields.io/youtube/views/L-JrFWSnss0?style=social&cache=0"> </td>
+      <td> <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB">Video</a> </td>
     </tr>
     <tr>
       <td> Xiaoning Ren, Yun Lin, Yinxing Xue, <b>Ruofan Liu</b>, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. ICSE 2023 </td>
