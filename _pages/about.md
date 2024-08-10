@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 ## Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's homepage
 My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics. 
