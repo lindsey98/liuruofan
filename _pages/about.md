@@ -22,10 +22,10 @@ My research interest is AI’s application in Web Security.
 <table  style="width:100%">
   <thead>
     <tr>
-      <th style="width:60%">Title</th>
-      <th style="width:5%">Paper & Slides</th>
-      <th style="width:20%">Code</th>
-      <th style="width:15%">Video</th>
+      <th style="width:70%">Title</th>
+      <th style="width:10%">Paper & Slides</th>
+      <th style="width:10%">Code</th>
+      <th style="width:10%">Video</th>
     </tr>
   </thead>
   
