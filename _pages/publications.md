@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+==== 2024 ========
+- **Ruofan Liu**, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang and Jin Song Dong. Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List. USENIX Security 2024. [pdf](http://linyun.info/publications/usenix-sec24b.pdf), [code](https://github.com/code-philia/PhishLLM/).
+- Xiwen Teoh, Yun Lin, **Ruofan Liu**, Zhiyong Huang and Jin Song Dong. PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models. USENIX Security 2024. [pdf](http://linyun.info/publications/usenix-sec24a.pdf), [code](https://github.com/code-philia/PhishDecloaker).
+
 ==== 2023 ========
 - **Ruofan Liu**, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. USENIX Security 2023. [pdf](http://linyun.info/publications/usenix-sec23.pdf), [code](https://github.com/code-philia/Dynaphish).
 - Xiaoning Ren, Yun Lin, Yinxing Xue, **Ruofan Liu**, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. ICSE 2023. [pdf](http://linyun.info/publications/icse23.pdf).
