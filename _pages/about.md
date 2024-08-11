@@ -19,7 +19,7 @@ My research interest is AI’s application in Web Security.
 🍋 Our work, "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models." has been accepted by USENIX Security 2024! Congratulations to Xiwen!
 
 ### Selected Publications
-<table  style="width:100%">
+<table style="width:100%; font-size:16px;">
   <thead>
     <tr>
       <th style="width:70%">Title</th>
