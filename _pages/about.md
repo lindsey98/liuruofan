@@ -9,16 +9,23 @@ redirect_from:
 ---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-## Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's homepage
-My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics. 
-I am now a fourth-year CS Ph.D. candidate under the supervision of [Prof. Dong Jin Song](https://www.comp.nus.edu.sg/~dongjs/). 
-My research interest is AI’s application in Web Security. 
+  <header>
+      <h1>Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage</h1>
+  </header>
+  <section class="intro">
+      <p>My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics. I am now a fourth-year CS Ph.D. candidate under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>. My research interest is AI’s application in Web Security.</p>
+  </section>
 
-### News 
-🍋 Our work, "Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List." has been accepted by USENIX Security 2024!
-🍋 Our work, "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models." has been accepted by USENIX Security 2024! Congratulations to Xiwen!
-
-### Selected Publications
+<section class="news">
+        <h2>News</h2>
+        <ul>
+            <li>🍋 Our work, "Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List." has been accepted by USENIX Security 2024!</li>
+            <li>🍋 Our work, "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models." has been accepted by USENIX Security 2024! Congratulations to Xiwen!</li>
+        </ul>
+</section>
+    
+<section class="publications">
+<h2>Selected Publications</h2>
 <table style="width:100%; font-size:16px;">
   <thead>
     <tr>
@@ -93,36 +100,45 @@ My research interest is AI’s application in Web Security.
     </tr>
   </tbody>
 </table>
+</section>
 
-### Tools and Systems:
+<section class="service">
+   <h2>Tools and Systems</h2>
 - [Phishpedia](https://github.com/lindsey98/Phishpedia): An explainable reference-based phishing detector based on brand intention
 - [PhishIntention](https://github.com/lindsey98/PhishIntention): An explainable reference-based phishing detector phishing detector which considers both the brand intention and credential-taking intention
 - [Influence4Metric](https://github.com/lindsey98/Influence_function_metric_learning): An influence-function-based explanation and debugging tool for Deep Metric Learning Tasks
 - [DynaPhish](https://github.com/code-philia/Dynaphish): A complementary module for all reference-based phishing detectors with brand knowledge expansion and counterfactual interaction
 - [MyXDriver](https://github.com/lindsey98/MyXdriver_pub/): A selenium-based webdriver that supports automatic form filling, form submission, and suspicious behavior inspection
+</section>
 
-### Benchmark:
-- [Phishpedia 30K Phishing](https://drive.google.com/file/d/12ypEMPRQ43zGRqHGut0Esq2z5en0DH4g/view?usp=drive_link): The largest static benchmark for phishing identification, including URL, HTML, and screenshots.
-- [DynaPD 6K Phishing Kits](https://ec2-18-206-250-207.compute-1.amazonaws.com/dynapd/): The largest interactable, safe collection of phishing kits.
-
-### Awards
+<section class="awards">
+<h2>Awards</h2>
 - NUS SoC Research Achievement Award in 2021/2022 Sem 1
 - Top 1 student in NUS Statistics Batch 2020
 - Lijen Industrial Development Medal (Best Academic Exercise/Projects in the Discipline) in Academic Year 2019
 - NTUC Medal in Academic Year 2019
 - Saw Swee Hock Gold Medal in the Academic Year 2019
 - SNAS Award 2020 (Singapore National Academy of Science)
+</section>
 
-### Patent
+<section class="patent">
+<h2>Patent</h2>
 - Yun Lin, **Ruofan Liu**, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel)
+</section>
 
-### Service
+<section class="service">
+        <h2>Service</h2>
 Conference PC Membership
 - Year of 2023. Program Committee (PC) for the 28th IEEE Pacific Rim International Symposium on Dependable Computing.
+</section>
 
-### Contacts 
-- Email: liu.ruofan16[at]u[dot]nus[dot]edu
-- GitHub page: [https://github.com/lindsey98/](https://github.com/lindsey98/)
-- Google Scholar: [https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en](https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en)
+<section class="contact">
+    <h2>Contacts</h2>
+    <p>Email: liu.ruofan16[at]u[dot]nus[dot]edu</p>
+    <p>GitHub page: <a href="https://github.com/lindsey98/">https://github.com/lindsey98/</a></p>
+    <p>Google Scholar: <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en">https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en</a></p>
+</section>
 
-
+<footer>
+        <p>© 2024 Ruofan Liu. All Rights Reserved.</p>
+</footer>
