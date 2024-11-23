@@ -116,17 +116,26 @@ redirect_from:
 
 <section class="awards">
 <h2>Awards</h2>
+  
 - NUS SoC Research Achievement Award in 2021/2022 Sem 1
+  
 - Top 1 student in NUS Statistics Batch 2020
+  
 - Lijen Industrial Development Medal (Best Academic Exercise/Projects in the Discipline) in Academic Year 2019
+  
 - NTUC Medal in Academic Year 2019
+  
 - Saw Swee Hock Gold Medal in the Academic Year 2019
+  
 - SNAS Award 2020 (Singapore National Academy of Science)
+  
 </section>
 
 <section class="patent">
 <h2>Patent</h2>
+  
 - Yun Lin, **Ruofan Liu**, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel)
+  
 </section>
 
 <section class="service">
