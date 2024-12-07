@@ -117,6 +117,8 @@ redirect_from:
 <section class="awards">
 <h2>Awards</h2>
   
+- China International College Students’ Innovation Competition 2024 (Shanghai) Silver Medal 中国国际大学生创新大赛（2024）高教主赛道国际项目（上海赛区）专项赛银奖
+
 - NUS SoC Research Achievement Award in 2021/2022 Sem 1
   
 - Top 1 student in NUS Statistics Batch 2020
