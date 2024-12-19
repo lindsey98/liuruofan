@@ -28,7 +28,7 @@ redirect_from:
 <section class="publications">
 <h2>📝 Selected Publications</h2>
 
-<table style="width:100%; font-size:16px;">
+<table font-size:16px;">
   <thead>
     <tr>
       <th style="width:70%">Title</th>
