@@ -5,7 +5,6 @@
   @include clearfix();
   margin-bottom: 1em;
   margin-left: 10px; /* Reduce the left margin */
-  margin-right: 10px; /* Add a consistent right margin */
 
   @include breakpoint($large) {
     @include span(2 of 12);
