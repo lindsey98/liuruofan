@@ -43,7 +43,7 @@ redirect_from:
       <br>
       <a href="http://linyun.info/publications/usenix-sec24b.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn"><i class="fa fa-file-code-o"></i> [Video]</a>
+      <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -58,7 +58,7 @@ redirect_from:
       <br>
       <a href="http://linyun.info/publications/usenix-sec24a.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/PhishDecloaker"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://x.com/llmhyy/status/1801445397321420979"><i class="fa fa-file-code-o"></i> [Video]</a>
+      <a href="https://x.com/llmhyy/status/1801445397321420979"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -73,7 +73,7 @@ redirect_from:
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/Dynaphish"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB"><i class="fa fa-file-code-o"></i> [Video]</a>
+      <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -102,7 +102,7 @@ redirect_from:
       <br>
       <a href="http://linyun.info/publications/neurips22.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/lindsey98/Influence_function_metric_learning"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4"><i class="fa fa-file-code-o"></i> [Video]</a>
+      <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -132,7 +132,7 @@ redirect_from:
       <br>
       <a href="http://linyun.info/publications/deepvisualinsight-aaai22.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/xianglinyang/DeepVisualInsight"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27"><i class="fa fa-file-code-o"></i> [Video]</a>
+      <a href="https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -147,7 +147,7 @@ redirect_from:
       <br>
       <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/lindsey98/PhishIntention"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/yU7FrlSJ818"><i class="fa fa-file-code-o"></i> [Video]</a>
+      <a href="https://youtu.be/yU7FrlSJ818"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -162,25 +162,13 @@ redirect_from:
       <br>
       <a href="https://www.usenix.org/system/files/sec21-lin.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/lindsey98/Phishpedia"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/ZQOH1RW5DmY"><i class="fa fa-file-code-o"></i> [Video]</a>
+      <a href="https://youtu.be/ZQOH1RW5DmY"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
   </div>
 </li>
 
-
-
 </ul>
 
-<!--  <li> <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang and Jin Song Dong. Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List. USENIX Security 2024. <a href="http://linyun.info/publications/usenix-sec24b.pdf">Paper</a>. <a href="https://github.com/code-philia/PhishLLM/">Code</a> <img src="https://img.shields.io/github/stars/code-philia/PhishLLM.svg">. <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn">Video</a> <img src="https://img.shields.io/youtube/views/FwnLaJ-wglA?style=social&cache=0"> </li>
-<li> Xiwen Teoh, Yun Lin, <b>Ruofan Liu</b>, Zhiyong Huang and Jin Song Dong. PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models. USENIX Security 2024. <a href="http://linyun.info/publications/usenix-sec24a.pdf">Paper</a>. <a href="https://github.com/code-philia/PhishDecloaker">Code</a> <img src="https://img.shields.io/github/stars/code-philia/PhishDecloaker">. <a href="https://x.com/llmhyy/status/1801445397321420979">Video</a> </li>
-<li> <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection. USENIX Security 2023. <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf">Paper</a>. <a href="https://github.com/code-philia/Dynaphish">Code</a> <img src="https://img.shields.io/github/stars/code-philia/Dynaphish.svg">. <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB">Video</a> </li>
-<li> Xiaoning Ren, Yun Lin, Yinxing Xue, <b>Ruofan Liu</b>, Jun Sun, Zhiyong Feng and Jin Song Dong. DeepArc: Modularizing Neural Networks for the Model Maintenance. ICSE 2023. <a href="http://linyun.info/publications/icse23.pdf">Paper</a>. <a href="https://github.com/hnurxn/Deep-Arc">Code</a> <img src="https://img.shields.io/github/stars/hnurxn/Deep-Arc.svg"> </li>
-<li> <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Jin Song Dong. Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective. NeurIPS 2022. <a href="http://linyun.info/publications/neurips22.pdf">Paper</a>. <a href="https://github.com/lindsey98/Influence_function_metric_learning">Code</a> <img src="https://img.shields.io/github/stars/lindsey98/Influence_function_metric_learning.svg">. <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4">Video</a> </li>
-<li> Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. IJCAI 2022. <a href="http://linyun.info/publications/ijcai22.pdf">Paper</a>. <a href="https://github.com/xianglinyang/SingleVisualization">Code</a> <img src="https://img.shields.io/github/stars/xianglinyang/SingleVisualization.svg">. <a href="https://www.ijcai.org/proceedings/2022/video/558">Video</a> </li>
-<li> <b>Ruofan Liu</b>, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. USENIX Security 2022. <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf">Paper</a>. <a href="https://github.com/lindsey98/PhishIntention">Code</a> <img src="https://img.shields.io/github/stars/lindsey98/PhishIntention.svg">. <a href="https://youtu.be/yU7FrlSJ818">Video</a> <img src="https://img.shields.io/youtube/views/yU7FrlSJ818?style=social"></li>
-
-<li> Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages. USENIX Security 2021. <a href="https://www.usenix.org/system/files/sec21-lin.pdf">Paper</a>. <a href="https://github.com/lindsey98/Phishpedia">Code</a> <img src="https://img.shields.io/github/stars/lindsey98/Phishpedia.svg">. <a href="https://youtu.be/ZQOH1RW5DmY">Video</a> <img src="https://img.shields.io/youtube/views/ZQOH1RW5DmY?style=social"> </li>
-     -->
 </section>
 
 <section class="service">
