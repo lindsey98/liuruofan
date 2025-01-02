@@ -17,6 +17,7 @@ redirect_from:
     <h1>👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage</h1>
 </header>
 
+<div class="page__inner-wrap">
 <section class="page__content">
   
 <h2>Introduction</h2>
@@ -276,6 +277,7 @@ redirect_from:
     <p>Google Scholar: <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en">https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en</a></p>
 
 </section>
+</div>
 
 <footer>
   <p>© 2024 Ruofan Liu. All Rights Reserved.</p>
