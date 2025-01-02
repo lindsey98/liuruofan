@@ -48,6 +48,8 @@ redirect_from:
   </div>
 </li>
 
+<br>
+
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="../images/phishdecloaker-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
@@ -77,7 +79,9 @@ redirect_from:
     </div>
   </div>
 </li>
-    
+
+<br>
+
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="../images/deeparc-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
@@ -107,6 +111,8 @@ redirect_from:
   </div>
 </li>
 
+<br>
+
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="../images/timevis-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
@@ -121,6 +127,8 @@ redirect_from:
     </div>
   </div>
 </li>
+
+<br>
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
@@ -151,6 +159,8 @@ redirect_from:
     </div>
   </div>
 </li>
+
+<br>
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
