@@ -39,7 +39,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'24
       </div>
-      <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
 
     <div>
@@ -62,7 +62,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'24
       </div>
-      <img src="images/phishdecloaker-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishdecloaker-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
     <div>
       Xiwen Teoh, Yun Lin, <b>Ruofan Liu</b>, Zhiyong Huang and Jin Song Dong.
@@ -82,7 +82,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'23
       </div>
-      <img src="images/dynaphish-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/dynaphish-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
     
     <div>
@@ -105,7 +105,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         ICSE'23
       </div>
-      <img src="images/deeparc-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/deeparc-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
 
     <div>
@@ -125,7 +125,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         NeurIPS'22
       </div>
-      <img src="images/eif-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/eif-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
     
     <div>
@@ -148,7 +148,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         IJCAI'22
       </div>
-      <img src="images/timevis-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/timevis-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
     
     <div>
@@ -171,7 +171,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         AAAI'22
       </div>
-      <img src="images/deepvisualinsight-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/deepvisualinsight-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
 
     <div>
@@ -192,7 +192,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'22
       </div>
-      <img src="images/phishintention-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishintention-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
 
     <div>
@@ -215,7 +215,7 @@ redirect_from:
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'21
       </div>
-      <img src="images/phishpedia-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishpedia-thumb.png" alt="Thumbnail" style="width: 100%; max-width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     </div>
 
     <div>
