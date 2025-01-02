@@ -55,7 +55,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     
-      <img src="images/phishdecloaker-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishdecloaker-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
 
     <div>
       Xiwen Teoh, Yun Lin, <b>Ruofan Liu</b>, Zhiyong Huang and Jin Song Dong.
@@ -72,7 +72,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     
-      <img src="images/dynaphish-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/dynaphish-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. 
@@ -91,7 +91,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     
-      <img src="images/deeparc-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/deeparc-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
 
     <div>
       Xiaoning Ren, Yun Lin, Yinxing Xue, <b>Ruofan Liu</b>, Jun Sun, Zhiyong Feng, and Jin Song Dong.
@@ -107,7 +107,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     
-      <img src="images/eif-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/eif-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
 
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Jin Song Dong. 
@@ -126,7 +126,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
 
-      <img src="images/timevis-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/timevis-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     
     <div>
       Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong.
@@ -145,7 +145,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
   
-      <img src="images/deepvisualinsight-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/deepvisualinsight-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
 
     <div>
       Xianglin Yang#, Yun Lin#, <b>Ruofan Liu</b>, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei.
@@ -162,7 +162,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     
-      <img src="images/phishintention-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishintention-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
 
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. 
@@ -181,7 +181,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     
-      <img src="images/phishpedia-thumb.png" alt="Thumbnail" style="width:  800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishpedia-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
 
     <div>
       Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong.
