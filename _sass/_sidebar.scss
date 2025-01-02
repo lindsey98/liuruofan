@@ -1,257 +1,20 @@
-// /* ==========================================================================
-//    SIDEBAR
-//    ========================================================================== */
+/* ==========================================================================
+   SIDEBAR
+   ========================================================================== */
 
-// /*
-//    Default
-//    ========================================================================== */
-
-// .sidebar {
-//   -webkit-transform: translate3d(0, 0 , 0);
-//           transform: translate3d(0, 0 , 0);
-
-//   @include clearfix();
-//   margin-bottom: 1em;
-
-//   @include breakpoint($large) {
-//     @include span(2 of 12);
-//     opacity: 1;
-//     -webkit-transition: opacity 0.2s ease-in-out;
-//             transition: opacity 0.2s ease-in-out;
-
-//     &:hover {
-//       opacity: 1;
-//     }
-//   }
-
-//   @include breakpoint($x-large) {
-//     padding-right: 0;
-//   }
-
-//   h2, h3, h4, h5, h6 {
-//     margin-bottom: 0;
-//     font-family: $sans-serif-narrow;
-//   }
-
-//   h3, h4 {
-//     font-size: $type-size-5;
-//   }
-
-//   p, li {
-//     font-family: $sans-serif;
-//     font-size: $type-size-6;
-//     line-height: 1.5;
-//   }
-
-//   img {
-//     width: 100%;
-//   }
-// }
-
-// .sidebar__right {
-//   margin-bottom: 1em;
-
-//   @include breakpoint($large) {
-//     position: relative;
-//     float: right;
-//     width: $right-sidebar-width-narrow;
-//     margin-left: span(0.5 of 12);
-//     z-index: 10;
-//   }
-
-//   @include breakpoint($x-large) {
-//     width: $right-sidebar-width;
-//   }
-// }
-
-// /*
-//    Author profile and links
-//    ========================================================================== */
-
-// .author__avatar {
-//   display: table-cell;
-//   vertical-align: top;
-//   width: 36px;
-//   // set width only, for non-square avatars
-//   // height: 36px;
-
-//   @include breakpoint($large) {
-//     display: block;
-//     width: auto;
-//     height: auto;
-//   }
-
-//   img {
-//     max-width: 175px;
-//     border-radius: 50%;
-
-//     @include breakpoint($large) {
-//       padding: 5px;
-//       border: 1px solid $border-color;
-//     }
-//   }
-// }
-
-// .author__content {
-//   display: table-cell;
-//   vertical-align: top;
-//   padding-left: 15px;
-//   padding-right: 25px;
-//   line-height: 1;
-
-//   @include breakpoint($large) {
-//     display: block;
-//     width: 100%;
-//     padding-left: 0;
-//     padding-right: 0;
-//   }
-// }
-
-// .author__name {
-//   margin: 0;
-
-//   @include breakpoint($large) {
-//     margin-top: 10px;
-//     margin-bottom: 10px;
-//   }
-// }
-// .sidebar .author__name {
-//   font-family: $sans-serif;
-//   font-size: $type-size-5;
-// }
-
-// .author__bio {
-//   margin: 0;
-
-//   @include breakpoint($large) {
-//     margin-top: 10px;
-//     margin-bottom: 20px;
-//   }
-// }
-
-// .author__urls-wrapper {
-//   position: relative;
-//   display: table-cell;
-//   vertical-align: middle;
-//   font-family: $sans-serif;
-//   z-index: 10;
-//   position: relative;
-//   cursor: pointer;
-
-//   li:last-child {
-//     a {
-//       margin-bottom: 0;
-//     }
-//   }
-
-//   @include breakpoint($large) {
-//     display: block;
-//   }
-
-//   button {
-//     margin-bottom: 0;
-
-//     @include breakpoint($large) {
-//       display: none;
-//     }
-//   }
-// }
-
-// .author__urls {
-//   display: none;
-//   position: absolute;
-//   right: 0;
-//   margin-top: 15px;
-//   padding: 10px;
-//   list-style-type: none;
-//   border: 1px solid $border-color;
-//   border-radius: $border-radius;
-//   background: #fff;
-//   z-index: -1;
-//   box-shadow: 0 0 10px rgba(#000, 0.25);
-//   cursor: default;
-
-//   @include breakpoint($large) {
-//     display: block;
-//     position: relative;
-//     margin: 0;
-//     padding: 0;
-//     border: 0;
-//     background: transparent;
-//     box-shadow: none;
-//   }
-
-//   &:before {
-//     display: block;
-//     content: "";
-//     position: absolute;
-//     top: -11px;
-//     left: calc(50% - 10px);
-//     width: 0;
-//     border-style: solid;
-//     border-width: 0 10px 10px;
-//     border-color: $border-color transparent;
-//     z-index: 0;
-
-//     @include breakpoint($large) {
-//       display: none;
-//     }
-//   }
-
-//   &:after {
-//     display: block;
-//     content: "";
-//     position: absolute;
-//     top: -10px;
-//     left: calc(50% - 10px);
-//     width: 0;
-//     border-style: solid;
-//     border-width: 0 10px 10px;
-//     border-color: #fff transparent;
-//     z-index: 1;
-
-//     @include breakpoint($large) {
-//       display: none;
-//     }
-//   }
-
-//   li {
-//     white-space: nowrap;
-//   }
-
-//   a {
-//     display: block;
-//     margin-bottom: 5px;
-//     padding-right: 5px;
-//     padding-top: 2px;
-//     padding-bottom: 2px;
-//     color: inherit;
-//     font-size: $type-size-5;
-//     text-decoration: none;
-
-//     &:hover {
-//       text-decoration: underline;
-//     }
-//   }
-// }
+/*
+   Default
+   ========================================================================== */
 
 .sidebar {
-  // Remove any existing float or position properties
-  // For example, if there was position: fixed; or float: left;, remove them
-  // transform: translate3d(0, 0 , 0); // Optional: Remove if not needed for performance
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
 
   @include clearfix();
   margin-bottom: 1em;
 
-  // Remove float-related properties from breakpoints
   @include breakpoint($large) {
-    // Remove float or any positioning that causes floating
-    // Example:
-    // float: left;
-    // position: fixed;
-    
-    // Adjust width as needed for horizontal layout
-    width: 100%; // Make it full width or as per design
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -265,29 +28,23 @@
     padding-right: 0;
   }
 
-  // Set up Flexbox for horizontal layout
-  display: flex;
-  flex-direction: row; // Arrange items horizontally
-  align-items: center; // Vertically center items if needed
-  justify-content: space-between; // Distribute space between items
-
-  // Adjust child elements to align horizontally
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
-    margin-right: 1em; // Add spacing between headings
+  }
+
+  h3, h4 {
+    font-size: $type-size-5;
   }
 
   p, li {
     font-family: $sans-serif;
     font-size: $type-size-6;
     line-height: 1.5;
-    margin-right: 1em; // Add spacing between paragraphs/list items
   }
 
   img {
-    width: auto; // Adjust image size for horizontal layout
-    max-height: 50px; // Example height, adjust as needed
+    width: 100%;
   }
 }
 
@@ -295,75 +52,90 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    // Remove float and position properties
-    // float: right;
-    // position: relative;
-
-    width: auto; // Allow it to fit within the flex container
-    margin-left: 0; // Remove left margin or adjust as needed
+    position: relative;
+    float: right;
+    width: $right-sidebar-width-narrow;
+    margin-left: span(0.5 of 12);
     z-index: 10;
   }
 
   @include breakpoint($x-large) {
-    width: auto; // Ensure it scales with the new layout
+    width: $right-sidebar-width;
   }
-
-  // If `.sidebar__right` contains specific content, ensure it aligns properly
-  display: flex;
-  flex-direction: row; // Arrange its children horizontally if needed
-  align-items: center;
 }
 
-.author__avatar {
-  // Remove table-cell display
-  display: block;
-  vertical-align: middle; // Optional: Align vertically within flex
+/*
+   Author profile and links
+   ========================================================================== */
 
-  width: 36px; // Adjust size as needed
-  // height: auto; // Ensure height adapts to content
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 36px;
+  // set width only, for non-square avatars
+  // height: 36px;
 
   @include breakpoint($large) {
-    padding: 5px;
-    border: 1px solid $border-color;
-    border-radius: 50%; // Maintain circular avatar
+    display: block;
+    width: auto;
+    height: auto;
   }
 
   img {
-    max-width: 100%; // Ensure image fits within the container
-    height: auto;
+    max-width: 175px;
     border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
+    }
   }
 }
 
 .author__content {
-  // Remove table-cell display
-  display: block;
-  padding-left: 0;
-  padding-right: 0;
-  line-height: 1.2; // Adjust line height if necessary
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 15px;
+  padding-right: 25px;
+  line-height: 1;
 
   @include breakpoint($large) {
-    width: auto;
-    padding: 0;
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
   }
 }
 
 .author__name {
-  margin: 0 1em 0 0; // Add right margin for spacing in horizontal layout
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+.sidebar .author__name {
   font-family: $sans-serif;
   font-size: $type-size-5;
 }
 
 .author__bio {
-  margin: 0 1em 0 0; // Add right margin for spacing
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
 }
 
 .author__urls-wrapper {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+  position: relative;
+  display: table-cell;
+  vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
+  position: relative;
   cursor: pointer;
 
   li:last-child {
@@ -373,8 +145,7 @@
   }
 
   @include breakpoint($large) {
-    display: flex;
-    flex-direction: row;
+    display: block;
   }
 
   button {
@@ -387,25 +158,73 @@
 }
 
 .author__urls {
-  display: flex; // Show URLs in flex for horizontal layout
-  position: static; // Remove absolute positioning
-  margin-top: 0;
-  padding: 0;
+  display: none;
+  position: absolute;
+  right: 0;
+  margin-top: 15px;
+  padding: 10px;
   list-style-type: none;
-  border: none;
-  background: transparent;
-  box-shadow: none;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: #fff;
+  z-index: -1;
+  box-shadow: 0 0 10px rgba(#000, 0.25);
   cursor: default;
+
+  @include breakpoint($large) {
+    display: block;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  &:before {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -11px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: $border-color transparent;
+    z-index: 0;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
+
+  &:after {
+    display: block;
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: calc(50% - 10px);
+    width: 0;
+    border-style: solid;
+    border-width: 0 10px 10px;
+    border-color: #fff transparent;
+    z-index: 1;
+
+    @include breakpoint($large) {
+      display: none;
+    }
+  }
 
   li {
     white-space: nowrap;
-    margin-right: 1em; // Add spacing between links
   }
 
   a {
-    display: inline-block;
-    margin-bottom: 0;
-    padding: 0;
+    display: block;
+    margin-bottom: 5px;
+    padding-right: 5px;
+    padding-top: 2px;
+    padding-bottom: 2px;
     color: inherit;
     font-size: $type-size-5;
     text-decoration: none;
@@ -416,20 +235,4 @@
   }
 }
 
-@include breakpoint($small) {
-  .sidebar {
-    flex-direction: column; // Stack vertically on smaller screens
-    align-items: flex-start;
-  }
-
-  .author__urls {
-    flex-direction: column;
-    align-items: flex-start;
-
-    li {
-      margin-right: 0;
-      margin-bottom: 0.5em;
-    }
-  }
-}
 
