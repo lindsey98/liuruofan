@@ -36,7 +36,7 @@ redirect_from:
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     
-      <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 800px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+      <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
 
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. 
