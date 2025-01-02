@@ -249,14 +249,14 @@ redirect_from:
 </section>
 
 <section class="service">
-  <h2>Service</h2>
+  <h2> 💪 Service </h2>
   Conference PC Membership
   <li><em>2024. </em>  Program Committee (PC) for the Transactions on Information Forensics & Security </li>
   <li><em>2023.</em>  Program Committee (PC) for the 28th IEEE Pacific Rim International Symposium on Dependable Computing </li>
 </section>
 
 <section class="contact">
-    <h2>Contacts</h2>
+    <h2> 📞 Contacts </h2>
     <p>Email: liu.ruofan16[at]u[dot]nus[dot]edu</p>
     <p>GitHub page: <a href="https://github.com/lindsey98/">https://github.com/lindsey98/</a></p>
     <p>Google Scholar: <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en">https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en</a></p>
