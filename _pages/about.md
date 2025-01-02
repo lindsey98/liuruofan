@@ -124,7 +124,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="" alt="../images/deepvisualinsight-thumb.png" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+    <img src="../images/deepvisualinsight-thumb.png" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     <div>
       Xianglin Yang#, Yun Lin#, <b>Ruofan Liu</b>, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei.
       <em>DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training</em>. 
