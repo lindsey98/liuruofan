@@ -12,8 +12,8 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    // max-width: $x-large;
-      max-width: 100%; /* Adjust this to 100% to use full width */
+    max-width: $x-large;
+      // max-width: 100%; /* Adjust this to 100% to use full width */
   }
 }
 
