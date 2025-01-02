@@ -5,12 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
 locale                   : "en-US"
 title                    : "Ruofan Liu's Personal Website"
 title_separator          : "-"
 name                     : &name "Ruofan Liu"
-description              : &description "PhD@National University of Singapore"
+description              : &description "Research Fellow@National University of Singapore"
 url                      : https://lindsey98.github.io/liuruofan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lindsey98/liuruofan"
@@ -88,7 +87,7 @@ author:
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en"
   email            : "liu.ruofan16@u.nus.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ruofan-Liu-8"
   uri              :
   bitbucket        :
   codepen          :
@@ -127,23 +126,26 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
   - gulpfile.js
+  - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
