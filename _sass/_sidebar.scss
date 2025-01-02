@@ -3,7 +3,6 @@
           transform: translate3d(0, 0, 0);
 
   @include clearfix();
-  margin-bottom: 1em;
   margin-left: 10px; /* Reduce the left margin */
 
   @include breakpoint($large) {
