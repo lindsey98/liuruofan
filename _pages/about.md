@@ -40,10 +40,7 @@ redirect_from:
 
     
     <div>
-        <div style="position: absolute; top: 5px; left: 5px; background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-    USENIX Security 2024
-    </div>
-    
+      <div class="badge">USENIX Security 2024</div>
       <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. 
       <em>Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List</em>. 
       USENIX Security 2024. 
