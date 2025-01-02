@@ -35,7 +35,7 @@ redirect_from:
 <ul style="list-style-type: none; padding: 0;">
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div><div class="badge">USENIX SEC'24</div><img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);"></div>
+    <div><div class="badge">USENIX SEC'24</div><img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);"></div>
 <!--     <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);"> -->
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. 
