@@ -13,12 +13,13 @@ redirect_from:
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage
-======
+<header>
+    <h1>👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage</h1>
+</header>
 
-
-<p>My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics, and my PhD degree at the National University of Singapore, Computer Science. I am now a postdoc under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>. My research interest is AI’s application in Web Security.</p>
-
+<section class="intro">
+    <p>My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics, and my PhD degree at the National University of Singapore, Computer Science. I am now a postdoc under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>. My research interest is AI’s application in Web Security.</p>
+</section>
 
 <section class="news">
         <h2>🔥 News</h2>
@@ -34,7 +35,7 @@ redirect_from:
 <ul style="list-style-type: none; padding: 0;">
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'24
       </div>
@@ -57,7 +58,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'24
       </div>
@@ -77,7 +78,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'23
       </div>
@@ -100,7 +101,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         ICSE'23
       </div>
@@ -120,7 +121,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         NeurIPS'22
       </div>
@@ -143,7 +144,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         IJCAI'22
       </div>
@@ -166,7 +167,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         AAAI'22
       </div>
@@ -187,7 +188,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'22
       </div>
@@ -210,7 +211,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div style="width: 800px; margin: 0 auto;">
+    <div>
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'21
       </div>
@@ -230,8 +231,8 @@ redirect_from:
 </li>
 
 </ul>
-</section>
 
+</section>
 
 <section class="service">
    <h2> ⚒️ Tools and Systems</h2>
