@@ -33,13 +33,16 @@ redirect_from:
 <h2>📝 Selected Publications</h2>
 
 <ul style="list-style-type: none; padding: 0;">
+  <li>
+    <span class="badge">USENIX Security 2024. </span>
+  </li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. 
       <em>Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List</em>. 
-      <span class="badge">USENIX Security 2024</span>. 
+      USENIX Security 2024. 
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-file-code-o"></i> [Code]</a>
