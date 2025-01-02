@@ -13,12 +13,10 @@ redirect_from:
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<section class="page__title">
-    <h1>👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage</h1>
-</section>
+<h1 class="page__title">
+    👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage
+</h1>
 
-<div class="page__inner-wrap">
-<section class="page__content">
   
 <h2>Introduction</h2>
     <p>My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics in the year 2020. And I obtained my PhD degree at the National University of Singapore, Computer Science in the year 2024. I am now a research fellow under <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>'s group. My research interest is AI’s application in Web Security.</p>
@@ -276,8 +274,6 @@ redirect_from:
     <p>GitHub page: <a href="https://github.com/lindsey98/">https://github.com/lindsey98/</a></p>
     <p>Google Scholar: <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en">https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en</a></p>
 
-</section>
-</div>
 
 <footer>
   <p>© 2024 Ruofan Liu. All Rights Reserved.</p>
