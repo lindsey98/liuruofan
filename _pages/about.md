@@ -281,5 +281,5 @@ redirect_from:
 </section>
 
 <footer>
-        <p>© 2024 Ruofan Liu. All Rights Reserved.</p>
+  <p>© 2024 Ruofan Liu. All Rights Reserved.</p>
 </footer>
