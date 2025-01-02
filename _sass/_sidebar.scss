@@ -1,9 +1,17 @@
+/* ==========================================================================
+   SIDEBAR
+   ========================================================================== */
+
+/*
+   Default
+   ========================================================================== */
+
 .sidebar {
-  -webkit-transform: translate3d(0, 0, 0);
-          transform: translate3d(0, 0, 0);
+  -webkit-transform: translate3d(0, 0 , 0);
+          transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-left: 10px; /* Reduce the left margin */
+  margin-bottom: 1em;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -16,9 +24,9 @@
     }
   }
 
+
   @include breakpoint($x-large) {
     padding-right: 0;
-    margin-left: 20px; /* Fine-tune for larger screens */
   }
 
   h2, h3, h4, h5, h6 {
@@ -48,13 +56,12 @@
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: 5px; /* Reduce spacing between sidebar and content */
+    margin-left: span(0.5 of 12);
     z-index: 10;
   }
 
   @include breakpoint($x-large) {
     width: $right-sidebar-width;
-    margin-left: 10px; /* Further fine-tune spacing for larger screens */
   }
 }
 
