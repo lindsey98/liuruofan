@@ -36,9 +36,9 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(12 of 12); /* Make the page span the full width */
+    @include span(11 of 12); /* Make the page span the full width */
     @include prefix(0.5 of 12); /* Remove the prefix */
-    @include suffix(2 of 12); /* Remove the suffix */
+    @include suffix(0.5 of 12); /* Remove the suffix */
   }
 
   .page__inner-wrap {
