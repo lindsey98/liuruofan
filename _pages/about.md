@@ -35,7 +35,7 @@ redirect_from:
 <ul style="list-style-type: none; padding: 0;">
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'24
       </div>
@@ -58,7 +58,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'24
       </div>
@@ -78,7 +78,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'23
       </div>
@@ -101,7 +101,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         ICSE'23
       </div>
@@ -121,7 +121,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         NeurIPS'22
       </div>
@@ -144,7 +144,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         IJCAI'22
       </div>
@@ -167,7 +167,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         AAAI'22
       </div>
@@ -188,7 +188,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'22
       </div>
@@ -211,7 +211,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div>
+    <div style="width: 800px; margin: 0 auto;">
       <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
         USENIX SEC'21
       </div>
