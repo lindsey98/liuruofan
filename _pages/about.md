@@ -34,7 +34,7 @@ redirect_from:
 
 <ul style="list-style-type: none; padding: 0;">
   <li>
-    <span class="badge">USENIX Security 2024. </span>
+    <span class="badge">USENIX Security 2024</span>
   </li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
@@ -54,6 +54,9 @@ redirect_from:
 <br>
 
 <li>
+    <span class="badge">USENIX Security 2024</span>
+</li>
+<li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/phishdecloaker-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     <div>
@@ -68,6 +71,11 @@ redirect_from:
   </div>
 </li>
 
+<br>
+
+<li>
+    <span class="badge">USENIX Security 2023</span>
+</li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/dynaphish-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
@@ -86,6 +94,9 @@ redirect_from:
 <br>
 
 <li>
+    <span class="badge">ICSE 2023</span>
+</li>
+<li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/deeparc-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     <div>
@@ -99,6 +110,11 @@ redirect_from:
   </div>
 </li>
 
+<br>
+
+<li>
+    <span class="badge">NeurIPS 2022</span>
+</li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/eif-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
@@ -117,6 +133,9 @@ redirect_from:
 <br>
 
 <li>
+    <span class="badge">IJCAI 2022</span>
+</li>
+<li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/timevis-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     <div>
@@ -134,6 +153,9 @@ redirect_from:
 <br>
 
 <li>
+    <span class="badge">AAAI 2022</span>
+</li>
+<li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/deepvisualinsight-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     <div>
@@ -148,6 +170,11 @@ redirect_from:
   </div>
 </li>
 
+<br>
+
+<li>
+    <span class="badge">USENIX Security 2022</span>
+</li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/phishintention-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
@@ -165,6 +192,9 @@ redirect_from:
 
 <br>
 
+<li>
+    <span class="badge">USENIX Security 2021</span>
+</li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
       <img src="images/phishpedia-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
