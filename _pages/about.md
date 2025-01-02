@@ -13,9 +13,8 @@ redirect_from:
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<header>
-    <h1>👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage</h1>
-</header>
+👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage
+======
 
 <section class="intro">
     <p>My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics, and my PhD degree at the National University of Singapore, Computer Science. I am now a postdoc under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>. My research interest is AI’s application in Web Security.</p>
