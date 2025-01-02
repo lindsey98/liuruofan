@@ -13,9 +13,9 @@ redirect_from:
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
-<header>
+<section class="page__title">
     <h1>👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage</h1>
-</header>
+</section>
 
 <div class="page__inner-wrap">
 <section class="page__content">
