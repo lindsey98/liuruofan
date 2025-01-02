@@ -35,14 +35,19 @@ redirect_from:
 <ul style="list-style-type: none; padding: 0;">
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <div><div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">USENIX SEC'24</div><img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);"></div>
-<!--     <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);"> -->
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        USENIX SEC'24
+      </div>
+      <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. 
       <em>Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List</em>. 
       USENIX Security 2024. 
       <br>
-      <a href="http://linyun.info/publications/usenix-sec24b.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-file-code-o"></i> [Code]</a>
       <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
@@ -53,13 +58,18 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/phishdecloaker-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        USENIX SEC'24
+      </div>
+      <img src="images/phishdecloaker-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
     <div>
       Xiwen Teoh, Yun Lin, <b>Ruofan Liu</b>, Zhiyong Huang and Jin Song Dong.
       <em>PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models</em>. 
       USENIX Security 2024. 
       <br>
-      <a href="http://linyun.info/publications/usenix-sec24a.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/PhishDecloaker"><i class="fa fa-file-code-o"></i> [Code]</a>
       <a href="https://x.com/llmhyy/status/1801445397321420979"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
@@ -68,7 +78,13 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/dynaphish-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        USENIX SEC'23
+      </div>
+      <img src="images/dynaphish-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+    
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. 
       <em>Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection</em>. 
@@ -85,13 +101,19 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/deeparc-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        ICSE'23
+      </div>
+      <img src="images/deeparc-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+
     <div>
       Xiaoning Ren, Yun Lin, Yinxing Xue, <b>Ruofan Liu</b>, Jun Sun, Zhiyong Feng, and Jin Song Dong.
       <em>DeepArc: Modularizing Neural Networks for the Model Maintenance</em>. 
       ICSE 2023. 
       <br>
-      <a href="http://linyun.info/publications/icse23.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=10316&context=sis_research"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/hnurxn/Deep-Arc"><i class="fa fa-file-code-o"></i> [Code]</a>
     </div>
   </div>
@@ -99,13 +121,19 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/eif-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        NeurIPS'22
+      </div>
+      <img src="images/eif-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+    
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Jin Song Dong. 
       <em>Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective</em>. 
       NeurIPS 2022. 
       <br>
-      <a href="http://linyun.info/publications/neurips22.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://proceedings.neurips.cc/paper_files/paper/2022/file/3322a9a72a1707de14badd5e552ff466-Paper-Conference.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/lindsey98/Influence_function_metric_learning"><i class="fa fa-file-code-o"></i> [Code]</a>
       <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
@@ -116,13 +144,19 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/timevis-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        IJCAI'22
+      </div>
+      <img src="images/timevis-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+    
     <div>
       Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong.
       <em>Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training</em>. 
       IJCAI 2022. 
       <br>
-      <a href="http://linyun.info/publications/ijcai22.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://www.ijcai.org/proceedings/2022/0558.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/xianglinyang/SingleVisualization"><i class="fa fa-file-code-o"></i> [Code]</a>
       <a href="https://www.ijcai.org/proceedings/2022/video/558"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
@@ -133,13 +167,19 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/deepvisualinsight-thumb.png" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        AAAI'22
+      </div>
+      <img src="images/deepvisualinsight-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+
     <div>
       Xianglin Yang#, Yun Lin#, <b>Ruofan Liu</b>, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei.
       <em>DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training</em>. 
       AAAI 2022.
       <br>
-      <a href="http://linyun.info/publications/deepvisualinsight-aaai22.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://cdn.aaai.org/ojs/20473/20473-13-24486-1-2-20220628.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/xianglinyang/DeepVisualInsight"><i class="fa fa-file-code-o"></i> [Code]</a>
       <a href="https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27"><i class="fa fa-file-video-o"></i> [Video]</a>
     </div>
@@ -148,7 +188,13 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/phishintention-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        USENIX SEC'22
+      </div>
+      <img src="images/phishintention-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. 
       <em>Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach</em>. 
@@ -165,7 +211,13 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/phishpedia-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <div class="badge" style="background-color: #0046d5; color: white; padding: 3px 8px; font-size: 12px; font-weight: bold; border-radius: 3px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); z-index: 2;">
+        USENIX SEC'21
+      </div>
+      <img src="images/phishpedia-thumb.png" alt="Thumbnail" style="width: 100%; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    </div>
+
     <div>
       Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong.
       <em>Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages</em>. 
