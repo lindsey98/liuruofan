@@ -28,7 +28,7 @@ redirect_from:
 </section>
 
 
-
+<section class="publications">
 <h2>📝 Selected Publications</h2>
 
 <ul style="list-style-type: none; padding: 0;">
@@ -230,7 +230,7 @@ redirect_from:
 </li>
 
 </ul>
-
+</section>
 
 
 <section class="service">
