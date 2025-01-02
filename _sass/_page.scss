@@ -16,20 +16,38 @@
   }
 }
 
+// .page {
+//   @include breakpoint($large) {
+//     @include span(10 of 12 last);
+//     @include prefix(0.5 of 12);
+//     @include suffix(2 of 12);
+//   }
+
+//   .page__inner-wrap {
+//     @include full();
+
+//     .page__content,
+//     .page__meta,
+//     .page__share {
+//       @include full();
+//     }
+//   }
+// }
+
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include span(12 of 12); /* Make the page span the full width */
+    @include prefix(0 of 12); /* Remove the prefix */
+    @include suffix(0 of 12); /* Remove the suffix */
   }
 
   .page__inner-wrap {
-    @include full();
+    @include full(); /* Ensure the inner-wrap takes full width */
 
     .page__content,
     .page__meta,
     .page__share {
-      @include full();
+      @include full(); /* Ensure content spans the full width */
     }
   }
 }
