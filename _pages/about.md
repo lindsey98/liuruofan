@@ -65,7 +65,7 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="path-to-thumbnail-2.jpg" alt="Thumbnail" style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+    <img src="../images/dynaphish-thumb.png" alt="Thumbnail" style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. 
       <em>Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection</em>. 
@@ -111,7 +111,7 @@ redirect_from:
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="path-to-thumbnail-5.jpg" alt="Thumbnail" style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     <div>
-      <strong>Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong.</strong> 
+      Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong.
       <em>Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training</em>. 
       IJCAI 2022. 
       <br>
@@ -124,9 +124,24 @@ redirect_from:
 
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="path-to-thumbnail-6.jpg" alt="Thumbnail" style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+    <img src="" alt="Thumbnail" style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
     <div>
-      <strong><b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong.</strong> 
+      Xianglin Yang#, Yun Lin#, <b>Ruofan Liu</b>, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei.
+      <em>DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training</em>. 
+      AAAI 2022.
+      <br>
+      <a href="http://linyun.info/publications/deepvisualinsight-aaai22.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://github.com/xianglinyang/DeepVisualInsight"><i class="fa fa-file-code-o"></i> [Code]</a>
+      <a href="https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27"><i class="fa fa-file-code-o"></i> [Video]</a>
+    </div>
+  </div>
+</li>
+
+<li>
+  <div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="../images/phishintention-thumb.png" alt="Thumbnail" style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+    <div>
+      <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. 
       <em>Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach</em>. 
       USENIX Security 2022. 
       <br>
@@ -137,6 +152,23 @@ redirect_from:
   </div>
 </li>
 
+<li>
+  <div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="../images/phishpedia-thumb.png" alt="Thumbnail" style="width: 120px; height: auto; border: 1px solid #ddd; border-radius: 5px;">
+    <div>
+      Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong.
+      <em>Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages</em>. 
+      USENIX Security 2021. 
+      <br>
+      <a href="https://www.usenix.org/system/files/sec21-lin.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
+      <a href="https://github.com/lindsey98/Phishpedia"><i class="fa fa-file-code-o"></i> [Code]</a>
+      <a href="https://youtu.be/ZQOH1RW5DmY"><i class="fa fa-file-code-o"></i> [Video]</a>
+    </div>
+  </div>
+</li>
+
+
+
 </ul>
 
 <!--  <li> <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang and Jin Song Dong. Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List. USENIX Security 2024. <a href="http://linyun.info/publications/usenix-sec24b.pdf">Paper</a>. <a href="https://github.com/code-philia/PhishLLM/">Code</a> <img src="https://img.shields.io/github/stars/code-philia/PhishLLM.svg">. <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn">Video</a> <img src="https://img.shields.io/youtube/views/FwnLaJ-wglA?style=social&cache=0"> </li>
@@ -146,7 +178,7 @@ redirect_from:
 <li> <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Jin Song Dong. Debugging and Explaining Metric Learning Approaches: An Influence Function Based Perspective. NeurIPS 2022. <a href="http://linyun.info/publications/neurips22.pdf">Paper</a>. <a href="https://github.com/lindsey98/Influence_function_metric_learning">Code</a> <img src="https://img.shields.io/github/stars/lindsey98/Influence_function_metric_learning.svg">. <a href="https://recorder-v3.slideslive.com/?share=71990&s=9d4e64bb-8057-4725-a30c-0f753fa89ee4">Video</a> </li>
 <li> Xianglin Yang, Yun Lin, <b>Ruofan Liu</b>, Jin Song Dong. Temporality Spatialization: A Scalable and Faithful Time-Travelling Visualization for Deep Classifier Training. IJCAI 2022. <a href="http://linyun.info/publications/ijcai22.pdf">Paper</a>. <a href="https://github.com/xianglinyang/SingleVisualization">Code</a> <img src="https://img.shields.io/github/stars/xianglinyang/SingleVisualization.svg">. <a href="https://www.ijcai.org/proceedings/2022/video/558">Video</a> </li>
 <li> <b>Ruofan Liu</b>, Yun Lin,  Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach. USENIX Security 2022. <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf">Paper</a>. <a href="https://github.com/lindsey98/PhishIntention">Code</a> <img src="https://img.shields.io/github/stars/lindsey98/PhishIntention.svg">. <a href="https://youtu.be/yU7FrlSJ818">Video</a> <img src="https://img.shields.io/youtube/views/yU7FrlSJ818?style=social"></li>
-<li> Xianglin Yang#, Yun Lin#, <b>Ruofan Liu</b>, Zhenfeng He, Chao Wang, Jin Song Dong, and Hong Mei. DeepVisualInsight: Time-Travelling Visualization for Spatio-Temporal Causality of Deep Classification Training. AAAI 2022. <a href="http://linyun.info/publications/deepvisualinsight-aaai22.pdf">Paper</a>. <a href="https://github.com/xianglinyang/DeepVisualInsight">Code</a> <img src="https://img.shields.io/github/stars/xianglinyang/DeepVisualInsight.svg">. <a href="https://recorder-v3.slideslive.com/?share=57789&s=e8f4c2ef-76e9-48be-89a0-76b2ca201a27">Video</a> </li>
+
 <li> Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages. USENIX Security 2021. <a href="https://www.usenix.org/system/files/sec21-lin.pdf">Paper</a>. <a href="https://github.com/lindsey98/Phishpedia">Code</a> <img src="https://img.shields.io/github/stars/lindsey98/Phishpedia.svg">. <a href="https://youtu.be/ZQOH1RW5DmY">Video</a> <img src="https://img.shields.io/youtube/views/ZQOH1RW5DmY?style=social"> </li>
      -->
 </section>
