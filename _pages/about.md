@@ -139,12 +139,11 @@ redirect_from:
 <section class="service">
    <h2> ⚒️ Tools and Systems</h2>
         <ul>
-            <li><a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a>: An explainable reference-based phishing detector based on brand intention.</li>
-            <li><a href="https://github.com/lindsey98/PhishIntention">PhishIntention</a>: An explainable reference-based phishing detector that considers both the brand intention and credential-taking intention.</li>
-            <li><a href="https://github.com/lindsey98/Influence_function_metric_learning">Influence4Metric</a>: An influence-function-based explanation and debugging tool for Deep Metric Learning Tasks.</li>
+            <li><a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a>: 1st referenced-based phishing website detector.</li>
+            <li><a href="https://github.com/lindsey98/PhishIntention">PhishIntention</a>: Reference-based phishing detector with both the brand intention and credential-taking intention.</li>
             <li><a href="https://github.com/code-philia/Dynaphish">DynaPhish</a>: A complementary module for all reference-based phishing detectors with brand knowledge expansion and counterfactual interaction.</li>
-            <li><a href="https://github.com/lindsey98/MyXdriver_pub/">MyXDriver</a>: A selenium-based webdriver that supports automatic form filling, form submission, and suspicious behavior inspection.</li>
           <li><a href="https://github.com/code-philia/PhishLLM">PhishLLM</a>: A LLM-empowered phishing detector.</li>
+          <li><a href="https://github.com/lindsey98/Influence_function_metric_learning">Influence4Metric</a>: An influence-function-based explanation and debugging tool for Deep Metric Learning Tasks.</li>
         </ul>
 </section>
 
@@ -165,7 +164,7 @@ redirect_from:
 <section class="patent">
 <h2> 🏷 Patent </h2>
   
-<li><em>2020.</em> Yun Lin, **Ruofan Liu**, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel). NO. 10202011155P </li>
+<li><em>2020.</em> Yun Lin, <b>Ruofan Liu</b>, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel). NO. 10202011155P </li>
   
 </section>
 
