@@ -55,8 +55,8 @@ redirect_from:
       <em>Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List</em>. 
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn"><i class="fa fa-file-video-o"></i> [Video]</a>
+      <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-github"></i> [Code]</a>
+      <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -74,8 +74,8 @@ redirect_from:
       <em>PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models</em>. 
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/code-philia/PhishDecloaker"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://x.com/llmhyy/status/1801445397321420979"><i class="fa fa-file-video-o"></i> [Video]</a>
+      <a href="https://github.com/code-philia/PhishDecloaker"><i class="fa fa-github"></i> [Code]</a>
+      <a href="https://x.com/llmhyy/status/1801445397321420979"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -93,8 +93,8 @@ redirect_from:
       <em>Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection</em>. 
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/code-philia/Dynaphish"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB"><i class="fa fa-file-video-o"></i> [Video]</a>
+      <a href="https://github.com/code-philia/Dynaphish"><i class="fa fa-github"></i> [Code]</a>
+      <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -112,8 +112,8 @@ redirect_from:
       <em>Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach</em>. 
       <br>
       <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/lindsey98/PhishIntention"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/yU7FrlSJ818"><i class="fa fa-file-video-o"></i> [Video]</a>
+      <a href="https://github.com/lindsey98/PhishIntention"><i class="fa fa-github"></i> [Code]</a>
+      <a href="https://youtu.be/yU7FrlSJ818"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
     </div>
   </div>
 </li>
@@ -131,8 +131,8 @@ redirect_from:
       <em>Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages</em>. 
       <br>
       <a href="https://www.usenix.org/system/files/sec21-lin.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/lindsey98/Phishpedia"><i class="fa fa-file-code-o"></i> [Code]</a>
-      <a href="https://youtu.be/ZQOH1RW5DmY"><i class="fa fa-file-video-o"></i> [Video]</a>
+      <a href="https://github.com/lindsey98/Phishpedia"><i class="fa fa-github"></i> [Code]</a>
+      <a href="https://youtu.be/ZQOH1RW5DmY"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
     </div>
   </div>
 </li>
