@@ -22,6 +22,16 @@ redirect_from:
     <p>My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics, and my PhD degree at the National University of Singapore, Computer Science. I am now a postdoc under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>. My research interest is AI’s application in Web Security.</p>
 </section>
 
+
+<section class="education">
+<h2> 📚 Education</h2>  
+  <ul>
+  <li><em>2024.10 - Present.</em> Research Fellow in Computer Science, National University of Singapore (NUS).</li>
+  <li><em>2021.01 - 2024.10.</em> Ph.D. in Computer Science, National University of Singapore (NUS).</li>
+  <li><em>2016.08 - 2020.06.</em> B.S. in Statistics, National University of Singapore (NUS).</li>
+  </ul>
+</section>
+
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
@@ -43,7 +53,6 @@ redirect_from:
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. 
       <em>Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List</em>. 
-      USENIX Security 2024. 
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-file-code-o"></i> [Code]</a>
@@ -63,7 +72,6 @@ redirect_from:
     <div>
       Xiwen Teoh, Yun Lin, <b>Ruofan Liu</b>, Zhiyong Huang and Jin Song Dong.
       <em>PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models</em>. 
-      USENIX Security 2024. 
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/PhishDecloaker"><i class="fa fa-file-code-o"></i> [Code]</a>
@@ -83,7 +91,6 @@ redirect_from:
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong. 
       <em>Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection</em>. 
-      USENIX Security 2023. 
       <br>
       <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/code-philia/Dynaphish"><i class="fa fa-file-code-o"></i> [Code]</a>
@@ -103,7 +110,6 @@ redirect_from:
     <div>
       <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong. 
       <em>Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach</em>. 
-      USENIX Security 2022. 
       <br>
       <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/lindsey98/PhishIntention"><i class="fa fa-file-code-o"></i> [Code]</a>
@@ -123,7 +129,6 @@ redirect_from:
     <div>
       Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong.
       <em>Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages</em>. 
-      USENIX Security 2021. 
       <br>
       <a href="https://www.usenix.org/system/files/sec21-lin.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
       <a href="https://github.com/lindsey98/Phishpedia"><i class="fa fa-file-code-o"></i> [Code]</a>
@@ -146,6 +151,7 @@ redirect_from:
           <li><a href="https://github.com/lindsey98/Influence_function_metric_learning">Influence4Metric</a>: An influence-function-based explanation and debugging tool for Deep Metric Learning Tasks.</li>
         </ul>
 </section>
+
 
 <section class="awards">
 <h2> 🏆 Awards</h2>
