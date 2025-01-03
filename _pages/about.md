@@ -35,7 +35,7 @@ redirect_from:
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
-<!--           <li><em>2024.03</em>:  🎉🎉 Our paper <em></li> -->
+          <li><em>2025.01</em>:  🎉🎉 Our project "Trusted Detection and Situational Analysis of Global Phishing Websites in the AI Era" has won the China International College Students’ Innovation Competition 2024 Bronze Medal (Top 4%) </li> 
         </ul>
 </section>
 
