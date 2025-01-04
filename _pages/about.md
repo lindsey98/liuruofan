@@ -73,9 +73,9 @@ redirect_from:
       Xiwen Teoh, Yun Lin, <b>Ruofan Liu</b>, Zhiyong Huang and Jin Song Dong.  <br>
       <em>PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models</em>. 
       <br>
-      <a href="https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/code-philia/PhishDecloaker"><i class="fa fa-github"></i> [Code]</a>
-      <a href="https://x.com/llmhyy/status/1801445397321420979"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
+      <i class="fa fa-file-pdf"></i><a href="https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf">[Paper]</a>
+      <i class="fa fa-github"></i><a href="https://github.com/code-philia/PhishDecloaker">[Code]</a>
+      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://x.com/llmhyy/status/1801445397321420979">[Video]</a>
     </div>
   </div>
 </li>
