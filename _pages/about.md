@@ -54,9 +54,9 @@ redirect_from:
       <b>Ruofan Liu</b>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. <br>
       <em>Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List</em>. 
       <br>
-      <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-github"></i> [Code]</a>
-      <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
+      <i class="fa fa-file-pdf"></i><a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf">[Paper]</a>
+      <i class="fa fa-github"></i><a href="https://github.com/code-philia/PhishLLM/">[Code]</a>
+      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn">[Video]</a>
     </div>
   </div>
 </li>
@@ -92,9 +92,9 @@ redirect_from:
       <b>Ruofan Liu</b>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong.  <br>
       <em>Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection</em>. 
       <br>
-      <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/code-philia/Dynaphish"><i class="fa fa-github"></i> [Code]</a>
-      <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
+      <i class="fa fa-file-pdf"></i><a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf">[Paper]</a>
+      <i class="fa fa-github"></i><a href="https://github.com/code-philia/Dynaphish">[Code]</a>
+      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB">[Video]</a>
     </div>
   </div>
 </li>
@@ -111,9 +111,9 @@ redirect_from:
       <b>Ruofan Liu</b>, Yun Lin, Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, Jin Song Dong.  <br>
       <em>Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach</em>. 
       <br>
-      <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/lindsey98/PhishIntention"><i class="fa fa-github"></i> [Code]</a>
-      <a href="https://youtu.be/yU7FrlSJ818"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
+      <i class="fa fa-file-pdf"></i><a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf">[Paper]</a>
+      <i class="fa fa-github"></i><a href="https://github.com/lindsey98/PhishIntention">[Code]</a>
+      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://youtu.be/yU7FrlSJ818">[Video]</a>
     </div>
   </div>
 </li>
@@ -130,9 +130,9 @@ redirect_from:
       Yun Lin#, <b>Ruofan Liu</b>#, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, Jin Song Dong. <br>
       <em>Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages</em>. 
       <br>
-      <a href="https://www.usenix.org/system/files/sec21-lin.pdf"><i class="fa fa-file-pdf"></i> [Paper]</a>
-      <a href="https://github.com/lindsey98/Phishpedia"><i class="fa fa-github"></i> [Code]</a>
-      <a href="https://youtu.be/ZQOH1RW5DmY"><i class="fa fa-youtube-play" style="color:red"></i> [Video]</a>
+      <i class="fa fa-file-pdf"></i><a href="https://www.usenix.org/system/files/sec21-lin.pdf">[Paper]</a>
+      <i class="fa fa-github"></i><a href="https://github.com/lindsey98/Phishpedia">[Code]</a>
+      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://youtu.be/ZQOH1RW5DmY">[Video]</a>
     </div>
   </div>
 </li>
