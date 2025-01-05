@@ -18,17 +18,12 @@ redirect_from:
     <h1>👋 Welcome to <u>Liu</u> Ruofan, <u>刘</u>若凡's Homepage</h1>
 </header>
 
-<section class="intro">
-    <p>My name is <u>Liu</u> Ruofan, I obtained my Bachelor's degree at the National University of Singapore, Statistics, and my PhD degree at the National University of Singapore, Computer Science. I am now a postdoc under the supervision of <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>. My research interest is AI’s application in Web Security.</p>
-</section>
-
-
 <section class="education">
 <h2> 📚 Education</h2>  
   <ul>
-  <li><em>2024.10 - Present.</em> Research Fellow in Computer Science, National University of Singapore (NUS).</li>
-  <li><em>2021.01 - 2024.10.</em> Ph.D. in Computer Science, National University of Singapore (NUS).</li>
-  <li><em>2016.08 - 2020.06.</em> B.S. in Statistics, National University of Singapore (NUS).</li>
+  <li><em>2024.10 - Present.</em> Research Fellow in Computer Science, National University of Singapore (NUS). Research Interest: AI for Web Security. </li>
+  <li><em>2021.01 - 2024.10.</em> Ph.D. in Computer Science, National University of Singapore (NUS). Supervisor: <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Dong Jin Song</a>.</li>
+  <li><em>2016.08 - 2020.06.</em> B.S. in Statistics, National University of Singapore (NUS). FYP Supervisor: <a href="https://alexxthiery.github.io/">Prof. Alexandre Thiéry</a>.</li>
   </ul>
 </section>
 
