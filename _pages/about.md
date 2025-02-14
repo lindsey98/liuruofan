@@ -171,9 +171,8 @@ redirect_from:
 
 <section class="service">
   <h2> 💪 Service </h2>
-  Conference PC Membership
-  <li><em>2024. </em>  Program Committee (PC) for the Transactions on Information Forensics & Security </li>
-  <li><em>2023.</em>  Program Committee (PC) for the 28th IEEE Pacific Rim International Symposium on Dependable Computing </li>
+  <li><em>2024. </em>  Reviewer for the Transactions on Information Forensics & Security </li>
+  <li><em>2023.</em>  Reviewer for the 28th IEEE Pacific Rim International Symposium on Dependable Computing </li>
 </section>
 
 <section class="contact">
