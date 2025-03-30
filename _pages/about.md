@@ -30,7 +30,7 @@ redirect_from:
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
-          <li><em>2025.01</em>:  🎉🎉 Our project "Trusted Detection and Situational Analysis of Global Phishing Websites in the AI Era" has won the China International College Students’ Innovation Competition 2024 Bronze Medal (Top 4%) </li> 
+          <li><em>2025.03</em>:  🎉🎉 Our paper "GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs" is accepted by ISSTA'25 (acceptance rate: 19%) </li> 
         </ul>
 </section>
 
