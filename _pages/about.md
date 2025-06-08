@@ -42,9 +42,10 @@ redirect_from:
 <h2>📝 Selected Publications</h2>
 
 <ul style="list-style-type: none; padding: 0;">
-  <li>
-    <span class="badge">ISSTA 2025</span>
-  </li>
+  
+<li>
+  <span class="badge">ISSTA 2025</span>
+</li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
     <img src="images/guipilot.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
@@ -59,7 +60,7 @@ redirect_from:
   </div>
 </li>
 
-<ul style="list-style-type: none; padding: 0;">
+
   <li>
     <span class="badge">USENIX Security 2024</span>
   </li>
