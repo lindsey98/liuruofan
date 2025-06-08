@@ -30,6 +30,9 @@ redirect_from:
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
+          <li><em>2025.06</em>:  🎉🎉 Our paper "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model" is accepted by USENIX Security'25 (acceptance rate: 18%) </li> 
+        </ul>
+        <ul>
           <li><em>2025.03</em>:  🎉🎉 Our paper "GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs" is accepted by ISSTA'25 (acceptance rate: 19%) </li> 
         </ul>
 </section>
@@ -37,6 +40,24 @@ redirect_from:
 
 <section class="publications">
 <h2>📝 Selected Publications</h2>
+
+<ul style="list-style-type: none; padding: 0;">
+  <li>
+    <span class="badge">ISSTA 2025</span>
+  </li>
+<li>
+  <div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      <b>Ruofan Liu</b>, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, and Jin Song Dong. <br>
+      <em>GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs</em>. 
+      <br>
+      <i class="fa fa-file-pdf"></i><a href="https://conf.researchr.org/details/issta-2025/issta-2025-papers/34/GUIPilot-A-Consistency-based-Mobile-GUI-Testing-Approach-for-Detecting-Application-s">[Paper]</a>
+      <i class="fa fa-github"></i><a href="https://github.com/code-philia/GUIPilot">[Code]</a>
+      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://www.youtube.com/watch?v=V-MmsoIis_U">[Video]</a>
+    </div>
+  </div>
+</li>
 
 <ul style="list-style-type: none; padding: 0;">
   <li>
