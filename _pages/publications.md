@@ -4,7 +4,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+
 <section class="publications">
+        <h2>2025</h2>
+        <ul>
+                <li><strong>Ruofan Liu</strong>, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, and Jin Song Dong. "GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs." ISSTA 2025. <a href="https://conf.researchr.org/details/issta-2025/issta-2025-papers/34/GUIPilot-A-Consistency-based-Mobile-GUI-Testing-Approach-for-Detecting-Application-s">Paper</a>, <a href="https://github.com/code-philia/GUIPilot">Code</a>.
+                </li>
+    </div>
+  </div>
+</li>
+                </li>
+        </ul>
         <h2>2024</h2>
         <ul>
             <li><strong>Ruofan Liu</strong>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong. "Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List." USENIX Security 2024. <a href="http://linyun.info/publications/usenix-sec24b.pdf">Paper</a>, <a href="https://github.com/code-philia/PhishLLM/">Code</a>.
