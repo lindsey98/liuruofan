@@ -47,7 +47,7 @@ redirect_from:
   </li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/phishllm-thumb.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <img src="images/guipilot.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     <div>
       <b>Ruofan Liu</b>, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, and Jin Song Dong. <br>
       <em>GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs</em>. 
