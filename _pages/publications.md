@@ -11,7 +11,7 @@ author_profile: true
         <ul>
                 <li><strong>Ruofan Liu</strong>, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, and Jin Song Dong. "GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs." ISSTA 2025. <a href="https://conf.researchr.org/details/issta-2025/issta-2025-papers/34/GUIPilot-A-Consistency-based-Mobile-GUI-Testing-Approach-for-Detecting-Application-s">Paper</a>, <a href="https://github.com/code-philia/GUIPilot">Code</a>.
                 </li>
-                <li><Xiwen Teoh, Yun Lin, Siqi Li, <strong>Ruofan Liu</strong>, Avi Sollomoni, Yaniv Harel, Jin Song Dong. "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model." USENIX Security 2025. <a href="">Paper</a>, <a href="">Code</a>.
+                <li>Xiwen Teoh, Yun Lin, Siqi Li, <strong>Ruofan Liu</strong>, Avi Sollomoni, Yaniv Harel, Jin Song Dong. "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model." USENIX Security 2025. <a href="">Paper</a>, <a href="">Code</a>.
                 </li>
         </ul>
         <h2>2024</h2>
