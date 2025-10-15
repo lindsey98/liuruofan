@@ -186,7 +186,7 @@ redirect_from:
 <section class="patent">
 <h2> 🏷 Patent </h2>
 <ul>
-  <li><em>2025.</em> Yun Lin, Guanjie Chen, Ruofei Ren, <b>Ruofan Liu</b>, Xiwen Teoh, Yuting Chen, Feng Yu, We Huang, Jinming Li, Liuhua Gong, Lili Gu. <em>GUI Software Testing System and Method Based on Requirement Design Drafts. </em> <b>CN202510267792.7</b> </li>
+  <li><em>2025.</em> Yun Lin, Guanjie Chen, Ruofei Ren, <b>Ruofan Liu</b>, Xiwen Teoh, Yuting Chen, Feng Yu, We Huang, Jinming Li, Liuhua Gong, Lili Gu. <em>GUI Software Testing System and Method Based on Requirement Design Drafts.</em> <b>CN202510267792.7</b> </li>
   <li><em>2020.</em> Yun Lin, <b>Ruofan Liu</b>, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. <em>Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation.</em> Provisional patent filed in Singapore (Trustwave, Singtel). <b>NO. 10202011155P</b> </li>
 </ul>
 </section>
