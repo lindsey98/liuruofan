@@ -30,7 +30,7 @@ redirect_from:
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
-          <li><em>2025.07</em>:  🎉🎉 Our project "Trusted Detection and Situational Analysis of Global Phishing Attacks in the AI Era" won the **First Place** in China International College Students' Innovation Competition Southeast Asia Division. Congratulations to Xiwen! <a href="https://events.xmu.edu.my/seacicsic25/result.html">Official annoucements</a>. </li> 
+          <li><em>2025.07</em>:  🎉🎉 Our project "Trusted Detection and Situational Analysis of Global Phishing Attacks in the AI Era" won the <b>First Place</b> in China International College Students' Innovation Competition Southeast Asia Division. Congratulations to Xiwen! <a href="https://events.xmu.edu.my/seacicsic25/result.html">Official annoucements</a>. </li> 
         </ul>
 </section>
 
