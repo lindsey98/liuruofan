@@ -30,10 +30,7 @@ redirect_from:
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
-          <li><em>2025.06</em>:  🎉🎉 Our paper "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model" is accepted by USENIX Security'25 (acceptance rate: 18%) </li> 
-        </ul>
-        <ul>
-          <li><em>2025.03</em>:  🎉🎉 Our paper "GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs" is accepted by ISSTA'25 (acceptance rate: 19%) </li> 
+          <li><em>2025.07</em>:  🎉🎉 Our project "Trusted Detection and Situational Analysis of Global Phishing Attacks in the AI Era" won the **First Place** in China International College Students' Innovation Competition Southeast Asia Division. Congratulations to Xiwen! <a href="https://events.xmu.edu.my/seacicsic25/result.html">Official annoucements</a>. </li> 
         </ul>
 </section>
 
@@ -172,6 +169,8 @@ redirect_from:
 
 <section class="awards">
 <h2> 🏆 Awards</h2>
+  <li><em>2025.</em> China International College Students’ Innovation Competition 2025 Silver Medal <br> 中国国际大学生创新大赛（2025）高教主赛道国际项目全国银奖（全国前0.01%） </li>
+  <li><em>2025.</em> China International College Students’ Innovation Competition 2025 (SEA) First Place <br> 中国国际大学生创新大赛（2025）高教主赛道国际项目东南亚赛区第一名 </li>
   <li><em>2024.</em> China International College Students’ Innovation Competition 2024 Bronze Medal <br> 中国国际大学生创新大赛（2024）高教主赛道国际项目全国铜奖（全国前0.04%） </li>
   <li><em>2024.</em> China International College Students’ Innovation Competition 2024 (Shanghai) Silver Medal <br> 中国国际大学生创新大赛（2024）高教主赛道国际项目（上海赛区）专项赛银奖 </li>
   <li><em>2024.</em> National University of Singapore Dean's Graduate Research Excellence Award </li>
