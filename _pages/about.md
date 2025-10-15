@@ -30,7 +30,7 @@ redirect_from:
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
-          <li><em>2025.07</em>:  🎉🎉 Our project "Trusted Detection and Situational Analysis of Global Phishing Attacks in the AI Era" won the <b>First Place</b> in China International College Students' Innovation Competition Southeast Asia Division. Congratulations to Xiwen! <a href="https://events.xmu.edu.my/seacicsic25/result.html">Official annoucements</a>. </li> 
+          <li><em>2025.07</em>: 🏆 Our project "Trusted Detection and Situational Analysis of Global Phishing Attacks in the AI Era" won the <b>First Place</b> in China International College Students' Innovation Competition Southeast Asia Division. Congratulations to Xiwen! <a href="https://events.xmu.edu.my/seacicsic25/result.html"> Link to the official annoucements </a>. </li> 
         </ul>
 </section>
 
@@ -185,15 +185,21 @@ redirect_from:
 
 <section class="patent">
 <h2> 🏷 Patent </h2>
-  
-<li><em>2020.</em> Yun Lin, <b>Ruofan Liu</b>, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation. Provisional patent filed in Singapore (Trustwave, Singtel). NO. 10202011155P </li>
-  
+<ul>
+  <li><em>2025.</em> Yun Lin, Guanjie Chen, Ruofei Ren, <b>Ruofan Liu</b>, Xiwen Teoh, Yuting Chen, Feng Yu, We Huang, Jinming Li, Liuhua Gong, Lili Gu. <em>GUI Software Testing System and Method Based on Requirement Design Drafts. </em> <b>CN202510267792.7</b> </li>
+  <li><em>2020.</em> Yun Lin, <b>Ruofan Liu</b>, Dinil Mon Divakaran, Jun Yang Ng, and Jin Song Dong. <em>Phishpedia: Towards an Approach of Phishing Identification with Visual Explanation.</em> Provisional patent filed in Singapore (Trustwave, Singtel). <b>NO. 10202011155P</b> </li>
+</ul>
 </section>
 
 <section class="service">
   <h2> 💪 Service </h2>
-  <li><em>2024. </em>  Reviewer for the Transactions on Information Forensics & Security </li>
-  <li><em>2023.</em>  Reviewer for the 28th IEEE Pacific Rim International Symposium on Dependable Computing </li>
+  <ul>
+    <li><em>2026. </em>  Reviewer for the AAAI 2026. </li>
+    <li><em>2025. </em>  Senior PC for the CIKM 2025. </li>
+    <li><em>2025. </em>  Reviewer for the NeurIPS 2025.</li>
+    <li><em>2024. </em>  Reviewer for the Transactions on Information Forensics & Security. </li>
+    <li><em>2023. </em>  Reviewer for the 28th IEEE Pacific Rim International Symposium on Dependable Computing. </li>
+  </ul>
 </section>
 
 <section class="contact">
