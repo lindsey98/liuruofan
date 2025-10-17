@@ -169,10 +169,10 @@ redirect_from:
 
 <section class="awards">
 <h2> 🏆 Awards</h2>
-  <li><em>2025.</em> China International College Students’ Innovation Competition 2025 Silver Medal <br> 中国国际大学生创新大赛（2025）高教主赛道国际项目全国银奖（全国前0.01%） </li>
-  <li><em>2025.</em> China International College Students’ Innovation Competition 2025 (SEA) First Place <br> 中国国际大学生创新大赛（2025）高教主赛道国际项目东南亚赛区第一名 </li>
-  <li><em>2024.</em> China International College Students’ Innovation Competition 2024 Bronze Medal <br> 中国国际大学生创新大赛（2024）高教主赛道国际项目全国铜奖（全国前0.04%） </li>
-  <li><em>2024.</em> China International College Students’ Innovation Competition 2024 (Shanghai) Silver Medal <br> 中国国际大学生创新大赛（2024）高教主赛道国际项目（上海赛区）专项赛银奖 </li>
+  <li><em>2025.</em> China International College Students’ Innovation Competition 2025 Silver Medal <br> 中国国际大学生创新大赛2025（互联网+）国际项目全国银奖（全国前0.01%） </li>
+  <li><em>2025.</em> China International College Students’ Innovation Competition 2025 (SEA) First Place <br> 中国国际大学生创新大赛2025（互联网+）国际项目东南亚赛区第一名 </li>
+  <li><em>2024.</em> China International College Students’ Innovation Competition 2024 Bronze Medal <br> 中国国际大学生创新大赛2024（互联网+）国际项目全国铜奖（全国前0.04%） </li>
+  <li><em>2024.</em> China International College Students’ Innovation Competition 2024 (Shanghai) Silver Medal <br> 中国国际大学生创新大赛2024（互联网+）国际项目（上海赛区）专项赛银奖 </li>
   <li><em>2024.</em> National University of Singapore Dean's Graduate Research Excellence Award </li>
   <li><em>2021.</em> National University of Singapore Research Achievement Award in 2021/2022 Sem 1 </li>
   <li><em>2020.</em> Top 1 student in NUS Statistics Batch 2020 </li>
