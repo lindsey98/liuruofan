@@ -30,7 +30,7 @@ redirect_from:
 <section class="news">
         <h2>🔥 News</h2>
         <ul>
-          <li><em>2025.07</em>: 🏆 Our project "Trusted Detection and Situational Analysis of Global Phishing Attacks in the AI Era" won the <b>First Place</b> in China International College Students' Innovation Competition Southeast Asia Division. Congratulations to Xiwen! <a href="https://events.xmu.edu.my/seacicsic25/result.html"> Link to the official annoucements </a>. </li> 
+          <li><em>2026.02</em>: Our paper "TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence" is accepted at ICLR 2026! </li> 
         </ul>
 </section>
 
