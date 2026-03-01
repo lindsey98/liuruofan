@@ -39,6 +39,23 @@ redirect_from:
 <h2>📝 Selected Publications</h2>
 
 <ul style="list-style-type: none; padding: 0;">
+
+<li>
+  <span class="badge">ICLR 2026</span>
+</li>
+<li>
+  <div style="display: flex; align-items: flex-start; gap: 15px;">
+    <img src="images/guipilot.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <div>
+      Murong Ma, <b>Ruofan Liu</b>, Yun Lin, Zhiyong Huang, and Jin Song Dong. <br>
+      <em>TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence</em>. 
+      <br>
+      <i class="fa fa-file-pdf"></i><a href="https://openreview.net/pdf?id=jSs8CDsF0A">[Paper]</a>
+      <!-- <i class="fa fa-github"></i><a href="https://github.com/code-philia/GUIPilot">[Code]</a>
+      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://www.youtube.com/watch?v=V-MmsoIis_U">[Video]</a> -->
+    </div>
+  </div>
+</li>
   
 <li>
   <span class="badge">ISSTA 2025</span>
