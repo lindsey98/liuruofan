@@ -7,6 +7,11 @@ author_profile: true
 
 
 <section class="publications">
+        <h2>2026</h2>
+        <ul>
+                <li>Murong Ma, <strong>Ruofan Liu</strong>, Yun Lin, Zhiyong Huang, and Jin Song Dong. "TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence." ICLR 2026. <a href="https://openreview.net/pdf?id=jSs8CDsF0A">Paper</a>.
+                </li>
+        </ul>
         <h2>2025</h2>
         <ul>
                 <li><strong>Ruofan Liu</strong>, Xiwen Teoh, Yun Lin, Guanjie Chen, Ruofei Ren, Denys Poshyvanyk, and Jin Song Dong. "GUIPilot: A Consistency-based Mobile GUI Testing Approach for Detecting Application-specific Bugs." ISSTA 2025. <a href="https://conf.researchr.org/details/issta-2025/issta-2025-papers/34/GUIPilot-A-Consistency-based-Mobile-GUI-Testing-Approach-for-Detecting-Application-s">Paper</a>, <a href="https://github.com/code-philia/GUIPilot">Code</a>.
