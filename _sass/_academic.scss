@@ -196,6 +196,30 @@ $accent-color: #0046d5;
   }
 }
 
+/* GitHub star badges (shields.io)
+   ========================================================================== */
+
+.star-badge-link {
+  margin-right: 0.85em;
+  border-bottom: none !important;
+
+  &:hover {
+    border-bottom: none !important;
+  }
+}
+
+.star-badge {
+  height: 18px;
+  vertical-align: middle;
+  border: 0;
+  box-shadow: none;
+}
+
+/* Star badges sit inline beside the tool name */
+.profile-section .star-badge {
+  margin-left: 4px;
+}
+
 /* Responsive: stack thumbnail above text on narrow screens */
 @media (max-width: 600px) {
   .pub-item {
