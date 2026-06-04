@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: archive
-title: "Ruofan Liu's Personal Website"
+hide_title: true
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -30,8 +30,7 @@ redirect_from:
 
 <section class="intro">
   <p>
-    I am a Research Fellow in the School of Computing at the National University of Singapore (NUS),
-    where I also completed my Ph.D. under the supervision of
+    I completed my Ph.D. at the National University of Singapore (NUS) under the supervision of
     <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a>.
     My research lies at the intersection of <strong>artificial intelligence and web security</strong>,
     with a particular focus on building trustworthy, vision-based systems for
