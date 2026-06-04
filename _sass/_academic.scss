@@ -65,6 +65,20 @@ $accent-color: #0046d5;
     color: lighten(#000, 40%);
     font-size: 1.05em;
     font-weight: 400;
+    margin-bottom: 0.3em;
+  }
+
+  .site-hero__links {
+    font-size: 0.95em;
+    margin-top: 0.2em;
+
+    a {
+      white-space: nowrap;
+    }
+
+    i {
+      margin-right: 0.25em;
+    }
   }
 }
 
@@ -196,6 +210,30 @@ $accent-color: #0046d5;
   }
 }
 
+/* GitHub star badges (shields.io)
+   ========================================================================== */
+
+.star-badge-link {
+  margin-right: 0.85em;
+  border-bottom: none !important;
+
+  &:hover {
+    border-bottom: none !important;
+  }
+}
+
+.star-badge {
+  height: 18px;
+  vertical-align: middle;
+  border: 0;
+  box-shadow: none;
+}
+
+/* Star badges sit inline beside the tool name */
+.profile-section .star-badge {
+  margin-left: 4px;
+}
+
 /* Responsive: stack thumbnail above text on narrow screens */
 @media (max-width: 600px) {
   .pub-item {
@@ -231,6 +269,30 @@ $accent-color: #0046d5;
     padding-bottom: 0.25em;
     font-size: 1.3em;
     border-bottom: 2px solid mix(#fff, $accent-color, 80%);
+  }
+}
+
+/* Highlight stats bar
+   ========================================================================== */
+
+.stats-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+  margin: -0.5em 0 1.75em;
+}
+
+.stat-badge {
+  border-bottom: none !important;
+
+  &:hover {
+    border-bottom: none !important;
+  }
+
+  img {
+    height: 20px;
+    vertical-align: middle;
   }
 }
 

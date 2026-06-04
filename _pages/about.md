@@ -19,6 +19,13 @@ redirect_from:
 <header class="site-hero">
     <h1>Ruofan Liu (刘若凡)</h1>
     <p class="site-hero__subtitle">Research Fellow in Computer Science, National University of Singapore</p>
+    <p class="site-hero__links">
+      <a href="{{ base_path }}/files/Ruofan_Liu_CV.pdf"><i class="fa fa-file-pdf"></i> Curriculum Vitae</a>
+      &nbsp;·&nbsp;
+      <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/lindsey98/"><i class="fa fa-github"></i> GitHub</a>
+    </p>
 </header>
 
 <section class="intro">
@@ -28,7 +35,7 @@ redirect_from:
     <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a>.
     My research lies at the intersection of <strong>artificial intelligence and web security</strong>,
     with a particular focus on building trustworthy, vision-based systems for
-    <strong>phishing detection</strong>, <strong>GUI testing</strong>, and <strong>reliable machine learning</strong>.
+    <strong>phishing detection</strong>, <strong>GUI testing</strong>, <strong>LLM security</strong>, and <strong>reliable machine learning</strong>.
   </p>
   <p>
     My work has appeared at top-tier security, software engineering, and machine learning venues,
@@ -39,10 +46,17 @@ redirect_from:
   </p>
 </section>
 
+<section class="stats-bar">
+  <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/Publications-13-0046d5?style=flat-square" alt="Publications"></a>
+  <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/USENIX_Security-6-0a3d62?style=flat-square" alt="USENIX Security papers"></a>
+  <span class="stat-badge"><img src="https://img.shields.io/badge/Patents-2-6c3483?style=flat-square" alt="Patents"></span>
+  <a class="stat-badge" href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&amp;hl=en" target="_blank" rel="noopener"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/lindsey98/liuruofan@google-scholar-stats/results/gs_data_shieldsio.json&amp;style=flat-square&amp;logo=googlescholar&amp;logoColor=white&amp;color=0046d5" alt="Google Scholar citations"></a>
+</section>
+
 <section class="profile-section education">
 <h2>📚 Education</h2>
   <ul>
-  <li><em>2024.10 – Present.</em> Research Fellow in Computer Science, National University of Singapore (NUS). Research interest: AI for Web Security.</li>
+  <li><em>2024.10 – Present.</em> Research Fellow in Computer Science, National University of Singapore (NUS). Research interest: AI for Web Security and LLM Security.</li>
   <li><em>2021.01 – 2024.10.</em> Ph.D. in Computer Science, National University of Singapore (NUS). Supervisor: <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a>.</li>
   <li><em>2016.08 – 2020.06.</em> B.S. in Statistics, National University of Singapore (NUS). FYP Supervisor: <a href="https://alexxthiery.github.io/">Prof. Alexandre Thiéry</a>.</li>
   </ul>
@@ -52,6 +66,15 @@ redirect_from:
   <h2>🔥 News</h2>
   <ul class="news-list">
     <li><em>2026</em> &mdash; Our paper <em>"XSearch: Explainable Code Search via Concept-to-Code Alignment"</em> is accepted at ISSTA 2026!</li>
+  </ul>
+</section>
+
+<section class="profile-section impact">
+  <h2>🌟 Research Impact</h2>
+  <ul>
+    <li>Pioneered <b>reference-based visual phishing detection</b>: <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a> was the first system of its kind, anchoring a widely-used open-source ecosystem (PhishIntention, DynaPhish, PhishLLM) — see the live GitHub stars below.</li>
+    <li>Research transferred to practice through <b>two patents</b> filed with industry partners (Trustwave, Singtel).</li>
+    <li>Recognized by multiple national and international awards, including the China International College Students' Innovation Competition and the NUS Dean's Graduate Research Excellence Award.</li>
   </ul>
 </section>
 
@@ -85,6 +108,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://openreview.net/pdf?id=jSs8CDsF0A"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/xaimm/TrainRef/tree/main"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/xaimm/TrainRef/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/xaimm/TrainRef?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
     </div>
   </div>
 </li>
@@ -100,6 +124,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://conf.researchr.org/details/issta-2025/issta-2025-papers/34/GUIPilot-A-Consistency-based-Mobile-GUI-Testing-Approach-for-Detecting-Application-s"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/code-philia/GUIPilot"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/code-philia/GUIPilot/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/code-philia/GUIPilot?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
       <a href="https://www.youtube.com/watch?v=V-MmsoIis_U"><i class="fa fa-youtube-play" style="color:red"></i>Video</a>
     </div>
   </div>
@@ -116,6 +141,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/code-philia/PhishLLM/"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/code-philia/PhishLLM/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/code-philia/PhishLLM?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
       <a href="https://youtu.be/FwnLaJ-wglA?si=ruEkPpsR8waWC1Jn"><i class="fa fa-youtube-play" style="color:red"></i>Video</a>
     </div>
   </div>
@@ -132,6 +158,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/code-philia/PhishDecloaker"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/code-philia/PhishDecloaker/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/code-philia/PhishDecloaker?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
       <a href="https://x.com/llmhyy/status/1801445397321420979"><i class="fa fa-youtube-play" style="color:red"></i>Video</a>
     </div>
   </div>
@@ -148,6 +175,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/code-philia/Dynaphish"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/code-philia/Dynaphish/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/code-philia/Dynaphish?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
       <a href="https://youtu.be/L-JrFWSnss0?si=eRiHFl5tkAq4VavB"><i class="fa fa-youtube-play" style="color:red"></i>Video</a>
     </div>
   </div>
@@ -164,6 +192,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/lindsey98/PhishIntention"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/lindsey98/PhishIntention/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/lindsey98/PhishIntention?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
       <a href="https://youtu.be/yU7FrlSJ818"><i class="fa fa-youtube-play" style="color:red"></i>Video</a>
     </div>
   </div>
@@ -180,6 +209,7 @@ redirect_from:
     <div class="pub-links">
       <a href="https://www.usenix.org/system/files/sec21-lin.pdf"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/lindsey98/Phishpedia"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/lindsey98/Phishpedia/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/lindsey98/Phishpedia?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
       <a href="https://youtu.be/ZQOH1RW5DmY"><i class="fa fa-youtube-play" style="color:red"></i>Video</a>
     </div>
   </div>
@@ -192,11 +222,11 @@ redirect_from:
 <section class="profile-section service">
    <h2>⚒️ Tools and Systems</h2>
         <ul>
-            <li><a href="https://github.com/lindsey98/Phishpedia" class="tool-name">Phishpedia</a>: the first reference-based phishing website detector.</li>
-            <li><a href="https://github.com/lindsey98/PhishIntention" class="tool-name">PhishIntention</a>: a reference-based phishing detector modelling both brand intention and credential-taking intention.</li>
-            <li><a href="https://github.com/code-philia/Dynaphish" class="tool-name">DynaPhish</a>: a complementary module for reference-based phishing detectors with brand knowledge expansion and counterfactual interaction.</li>
-            <li><a href="https://github.com/code-philia/PhishLLM" class="tool-name">PhishLLM</a>: an LLM-empowered phishing detector.</li>
-            <li><a href="https://github.com/lindsey98/Influence_function_metric_learning" class="tool-name">Influence4Metric</a>: an influence-function-based explanation and debugging tool for deep metric learning tasks.</li>
+            <li><a href="https://github.com/lindsey98/Phishpedia" class="tool-name">Phishpedia</a>: the first reference-based phishing website detector. <a class="star-badge-link" href="https://github.com/lindsey98/Phishpedia/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/lindsey98/Phishpedia?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a></li>
+            <li><a href="https://github.com/lindsey98/PhishIntention" class="tool-name">PhishIntention</a>: a reference-based phishing detector modelling both brand intention and credential-taking intention. <a class="star-badge-link" href="https://github.com/lindsey98/PhishIntention/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/lindsey98/PhishIntention?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a></li>
+            <li><a href="https://github.com/code-philia/Dynaphish" class="tool-name">DynaPhish</a>: a complementary module for reference-based phishing detectors with brand knowledge expansion and counterfactual interaction. <a class="star-badge-link" href="https://github.com/code-philia/Dynaphish/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/code-philia/Dynaphish?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a></li>
+            <li><a href="https://github.com/code-philia/PhishLLM" class="tool-name">PhishLLM</a>: an LLM-empowered phishing detector. <a class="star-badge-link" href="https://github.com/code-philia/PhishLLM/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/code-philia/PhishLLM?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a></li>
+            <li><a href="https://github.com/lindsey98/Influence_function_metric_learning" class="tool-name">Influence4Metric</a>: an influence-function-based explanation and debugging tool for deep metric learning tasks. <a class="star-badge-link" href="https://github.com/lindsey98/Influence_function_metric_learning/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/lindsey98/Influence_function_metric_learning?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a></li>
         </ul>
 </section>
 
@@ -240,6 +270,7 @@ redirect_from:
     <h2>📞 Contact</h2>
     <ul>
       <li>Email: liu.ruofan16[at]u[dot]nus[dot]edu</li>
+      <li>CV: <a href="{{ base_path }}/files/Ruofan_Liu_CV.pdf">Ruofan_Liu_CV.pdf</a></li>
       <li>GitHub: <a href="https://github.com/lindsey98/">github.com/lindsey98</a></li>
       <li>Google Scholar: <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en">scholar.google.com</a></li>
     </ul>
