@@ -118,20 +118,36 @@ $accent-color: #0046d5;
 }
 
 .pub-thumb {
+  position: relative;
   flex: 0 0 280px;
   max-width: 280px;
+  z-index: 0;
+
+  a {
+    display: block;
+    cursor: zoom-in;
+  }
 
   img {
+    display: block;
     width: 100%;
     height: auto;
     border: 1px solid #e0e0e0;
     border-radius: 6px;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
-    transition: $global-transition;
+    transform-origin: left center;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+
+  /* Enlarge the thumbnail on hover so figures are readable at a glance;
+     click opens the full-resolution image in a lightbox. */
+  &:hover {
+    z-index: 5;
   }
 
   &:hover img {
-    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    transform: scale(1.7);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.32);
   }
 }
 
@@ -190,6 +206,12 @@ $accent-color: #0046d5;
   .pub-thumb {
     flex-basis: auto;
     max-width: 100%;
+  }
+
+  /* On narrow screens the thumbnail is full-width, so a hover-scale would
+     overflow the viewport; tap to open the lightbox instead. */
+  .pub-thumb:hover img {
+    transform: none;
   }
 }
 

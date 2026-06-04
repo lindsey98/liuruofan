@@ -62,7 +62,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/xsearch.png" alt="XSearch">
+    <a href="images/xsearch.png" class="image-popup" title="XSearch"><img src="images/xsearch.png" alt="XSearch"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">ISSTA 2026</span>
@@ -76,7 +76,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/trainref.png" alt="TrainRef">
+    <a href="images/trainref.png" class="image-popup" title="TrainRef"><img src="images/trainref.png" alt="TrainRef"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">ICLR 2026</span>
@@ -91,7 +91,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/guipilot.png" alt="GUIPilot">
+    <a href="images/guipilot.png" class="image-popup" title="GUIPilot"><img src="images/guipilot.png" alt="GUIPilot"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">ISSTA 2025</span>
@@ -107,7 +107,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/phishllm-thumb.png" alt="PhishLLM">
+    <a href="images/phishllm-thumb.png" class="image-popup" title="PhishLLM"><img src="images/phishllm-thumb.png" alt="PhishLLM"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">USENIX Security 2024</span>
@@ -123,7 +123,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/phishdecloaker-thumb.png" alt="PhishDecloaker">
+    <a href="images/phishdecloaker-thumb.png" class="image-popup" title="PhishDecloaker"><img src="images/phishdecloaker-thumb.png" alt="PhishDecloaker"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">USENIX Security 2024</span>
@@ -139,7 +139,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/dynaphish-thumb.png" alt="DynaPhish">
+    <a href="images/dynaphish-thumb.png" class="image-popup" title="DynaPhish"><img src="images/dynaphish-thumb.png" alt="DynaPhish"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">USENIX Security 2023</span>
@@ -155,7 +155,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/phishintention-thumb.png" alt="PhishIntention">
+    <a href="images/phishintention-thumb.png" class="image-popup" title="PhishIntention"><img src="images/phishintention-thumb.png" alt="PhishIntention"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">USENIX Security 2022</span>
@@ -171,7 +171,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <img src="images/phishpedia-thumb.png" alt="Phishpedia">
+    <a href="images/phishpedia-thumb.png" class="image-popup" title="Phishpedia"><img src="images/phishpedia-thumb.png" alt="Phishpedia"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">USENIX Security 2021</span>
