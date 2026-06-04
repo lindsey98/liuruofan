@@ -19,6 +19,13 @@ redirect_from:
 <header class="site-hero">
     <h1>Ruofan Liu (刘若凡)</h1>
     <p class="site-hero__subtitle">Research Fellow in Computer Science, National University of Singapore</p>
+    <p class="site-hero__links">
+      <a href="{{ base_path }}/files/Ruofan_Liu_CV.pdf"><i class="fa fa-file-pdf"></i> Curriculum Vitae</a>
+      &nbsp;·&nbsp;
+      <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en"><i class="fa fa-graduation-cap"></i> Google Scholar</a>
+      &nbsp;·&nbsp;
+      <a href="https://github.com/lindsey98/"><i class="fa fa-github"></i> GitHub</a>
+    </p>
 </header>
 
 <section class="intro">
@@ -28,7 +35,7 @@ redirect_from:
     <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a>.
     My research lies at the intersection of <strong>artificial intelligence and web security</strong>,
     with a particular focus on building trustworthy, vision-based systems for
-    <strong>phishing detection</strong>, <strong>GUI testing</strong>, and <strong>reliable machine learning</strong>.
+    <strong>phishing detection</strong>, <strong>GUI testing</strong>, <strong>LLM security</strong>, and <strong>reliable machine learning</strong>.
   </p>
   <p>
     My work has appeared at top-tier security, software engineering, and machine learning venues,
@@ -49,7 +56,7 @@ redirect_from:
 <section class="profile-section education">
 <h2>📚 Education</h2>
   <ul>
-  <li><em>2024.10 – Present.</em> Research Fellow in Computer Science, National University of Singapore (NUS). Research interest: AI for Web Security.</li>
+  <li><em>2024.10 – Present.</em> Research Fellow in Computer Science, National University of Singapore (NUS). Research interest: AI for Web Security and LLM Security.</li>
   <li><em>2021.01 – 2024.10.</em> Ph.D. in Computer Science, National University of Singapore (NUS). Supervisor: <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a>.</li>
   <li><em>2016.08 – 2020.06.</em> B.S. in Statistics, National University of Singapore (NUS). FYP Supervisor: <a href="https://alexxthiery.github.io/">Prof. Alexandre Thiéry</a>.</li>
   </ul>
@@ -263,6 +270,7 @@ redirect_from:
     <h2>📞 Contact</h2>
     <ul>
       <li>Email: liu.ruofan16[at]u[dot]nus[dot]edu</li>
+      <li>CV: <a href="{{ base_path }}/files/Ruofan_Liu_CV.pdf">Ruofan_Liu_CV.pdf</a></li>
       <li>GitHub: <a href="https://github.com/lindsey98/">github.com/lindsey98</a></li>
       <li>Google Scholar: <a href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&hl=en">scholar.google.com</a></li>
     </ul>
