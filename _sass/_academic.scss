@@ -212,6 +212,27 @@ $accent-color: #0046d5;
   }
 }
 
+/* Sidebar author profile
+   ========================================================================== */
+
+.author__avatar img {
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.16);
+  transition: $global-transition;
+
+  &:hover {
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.24);
+  }
+}
+
+.sidebar .author__name {
+  font-weight: 700;
+}
+
+.author__bio {
+  color: lighten(#000, 32%);
+  line-height: 1.5;
+}
+
 /* Page footer
    ========================================================================== */
 

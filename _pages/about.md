@@ -51,7 +51,7 @@ redirect_from:
 <section class="profile-section news">
   <h2>🔥 News</h2>
   <ul class="news-list">
-    <li><em>2026.02</em> &mdash; Our paper <em>"TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence"</em> is accepted at ICLR 2026!</li>
+    <li><em>2026</em> &mdash; Our paper <em>"XSearch: Explainable Code Search via Concept-to-Code Alignment"</em> is accepted at ISSTA 2026!</li>
   </ul>
 </section>
 
@@ -59,6 +59,17 @@ redirect_from:
 <h2>📝 Selected Publications</h2>
 
 <ul class="pub-list">
+
+<li class="pub-item">
+  <div class="pub-info">
+    <span class="pub-venue">ISSTA 2026</span>
+    <span class="pub-authors">Yiming Liu#, <b>Ruofan Liu</b>#, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, and Linpeng Huang.</span>
+    <span class="pub-title">XSearch: Explainable Code Search via Concept-to-Code Alignment</span>
+    <div class="pub-links">
+      <a href="https://arxiv.org/pdf/2605.16046"><i class="fa fa-file-pdf"></i>Paper</a>
+    </div>
+  </div>
+</li>
 
 <li class="pub-item">
   <div class="pub-thumb">

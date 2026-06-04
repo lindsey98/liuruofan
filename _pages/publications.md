@@ -16,6 +16,11 @@ author_profile: true
 <section class="publications">
         <h2>2026</h2>
         <ul>
+                <li>Yiming Liu<strong>#</strong>, <strong>Ruofan Liu#</strong>, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, and Linpeng Huang.
+                "XSearch: Explainable Code Search via Concept-to-Code Alignment."
+                <em>ISSTA 2026.</em>
+                <a href="https://arxiv.org/pdf/2605.16046">[Paper]</a>
+                </li>
                 <li>Murong Ma, <strong>Ruofan Liu</strong>, Yun Lin, Zhiyong Huang, and Jin Song Dong.
                 "TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence."
                 <em>ICLR 2026.</em>
