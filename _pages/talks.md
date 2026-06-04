@@ -5,4 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
-- I was invited by Prof. [Phani Vadrevu](https://www.phanivadrevu.com/) to give a talk on our Phishpedia work and PhishIntention work. [Video](https://youtu.be/jw6Y1NbQHDM).
+<section class="profile-section">
+  <ul>
+    <li>Invited talk on our <em>Phishpedia</em> and <em>PhishIntention</em> work, hosted by
+    <a href="https://www.phanivadrevu.com/">Prof. Phani Vadrevu</a>.
+    <a href="https://youtu.be/jw6Y1NbQHDM">[Video]</a></li>
+  </ul>
+</section>
