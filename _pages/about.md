@@ -46,10 +46,9 @@ redirect_from:
 </section>
 
 <section class="stats-bar">
-  <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/Publications-13-0046d5?style=flat-square&amp;labelColor=2d3436" alt="Publications"></a>
+  <a class="stat-badge" href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&amp;hl=en" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Citations-600%2B-0046d5?style=flat-square&amp;labelColor=2d3436&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar citations"></a>
   <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/USENIX_Security-6-990000?style=flat-square&amp;labelColor=2d3436" alt="USENIX Security papers"></a>
   <span class="stat-badge"><img src="https://img.shields.io/badge/Patents-2-0f6e4f?style=flat-square&amp;labelColor=2d3436" alt="Patents"></span>
-  <a class="stat-badge" href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&amp;hl=en" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Citations-600%2B-0046d5?style=flat-square&amp;labelColor=2d3436&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar citations"></a>
 </section>
 
 <section class="profile-section education">
