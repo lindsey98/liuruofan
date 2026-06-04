@@ -51,8 +51,7 @@ redirect_from:
       <em>TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence</em>. 
       <br>
       <i class="fa fa-file-pdf"></i><a href="https://openreview.net/pdf?id=jSs8CDsF0A">[Paper]</a>
-      <!-- <i class="fa fa-github"></i><a href="https://github.com/code-philia/GUIPilot">[Code]</a>
-      <i class="fa fa-youtube-play" style="color:red"></i><a href="https://www.youtube.com/watch?v=V-MmsoIis_U">[Video]</a> -->
+      <i class="fa fa-github"></i><a href="https://github.com/xaimm/TrainRef/tree/main">[Code]</a>
     </div>
   </div>
 </li>
