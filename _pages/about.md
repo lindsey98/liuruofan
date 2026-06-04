@@ -49,7 +49,6 @@ redirect_from:
   <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/Publications-13-0046d5?style=flat-square" alt="Publications"></a>
   <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/USENIX_Security-6-0a3d62?style=flat-square" alt="USENIX Security papers"></a>
   <span class="stat-badge"><img src="https://img.shields.io/badge/Patents-2-6c3483?style=flat-square" alt="Patents"></span>
-  <a class="stat-badge" href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&amp;hl=en" target="_blank" rel="noopener"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/lindsey98/liuruofan@google-scholar-stats/results/gs_data_shieldsio.json&amp;style=flat-square&amp;logo=googlescholar&amp;logoColor=white&amp;color=0046d5" alt="Google Scholar citations"></a>
 </section>
 
 <section class="profile-section education">
