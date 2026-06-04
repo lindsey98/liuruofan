@@ -39,6 +39,8 @@ author_profile: true
                 <li>Xiwen Teoh, Yun Lin, Siqi Li, <strong>Ruofan Liu</strong>, Avi Sollomoni, Yaniv Harel, and Jin Song Dong.
                 "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model."
                 <em>USENIX Security 2025.</em>
+                <a href="https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf">[Paper]</a>
+                <a href="https://zenodo.org/records/15580923">[Code]</a>
                 </li>
         </ul>
         <h2>2024</h2>
@@ -67,7 +69,7 @@ author_profile: true
             <li>Xiaoning Ren, Yun Lin, Yinxing Xue, <strong>Ruofan Liu</strong>, Jun Sun, Zhiyong Feng, and Jin Song Dong.
             "DeepArc: Modularizing Neural Networks for the Model Maintenance."
             <em>International Conference on Software Engineering (ICSE) 2023.</em>
-            <a href="http://linyun.info/publications/icse23.pdf">[Paper]</a>
+            <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=10316&amp;context=sis_research">[Paper]</a>
             </li>
         </ul>
         <h2>2022</h2>
