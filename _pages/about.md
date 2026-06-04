@@ -71,10 +71,8 @@ redirect_from:
 <section class="profile-section impact">
   <h2>🌟 Research Impact</h2>
   <ul>
-    <li><b>Deployed in production at Singtel.</b> My phishing-detection research has been deployed in Singtel's real-world internet environment, reaching <b>98% precision</b> (about <b>+70 percentage points</b> over prior baselines) and surfacing <b>500+ zero-day scam websites per day</b>.</li>
-    <li><b>Adopted and cited across academia and industry.</b> My work has been cited and followed by researchers at Georgia Tech, UIUC, Purdue, Arizona State, and UC Santa Barbara, and by industry security teams at PayPal, Amazon, Norton, and Singtel Trustwave — with <b>600+ citations</b> on Google Scholar.</li>
-    <li><b>Recognized and transferred to practice.</b> The work is protected by a Singapore patent, was covered by Singapore's leading newspaper <i>Lianhe Zaobao</i>, and is being integrated into the Huawei HarmonyOS browser (model quantization, compression, and inference acceleration completed).</li>
-    <li><b>Pioneered reference-based visual phishing detection.</b> <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a> was the first system of its kind, anchoring a widely-used open-source ecosystem (PhishIntention, DynaPhish, PhishLLM) — see the live GitHub stars below.</li>
+    <li><b>Real-world deployment.</b> My phishing-detection research has been deployed in Singtel's production internet environment, reaching <b>98% precision</b> (about <b>+70 percentage points</b> over prior baselines) and surfacing <b>500+ zero-day scam websites per day</b>.</li>
+    <li><b>Open-source ecosystem.</b> I build and maintain open-source phishing detectors — <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a>, PhishIntention, DynaPhish, and PhishLLM — used and built upon by the research community (see the GitHub stars below).</li>
   </ul>
 </section>
 
