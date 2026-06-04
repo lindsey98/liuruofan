@@ -49,6 +49,7 @@ redirect_from:
   <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/Publications-13-0046d5?style=flat-square&amp;labelColor=2d3436" alt="Publications"></a>
   <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/USENIX_Security-6-990000?style=flat-square&amp;labelColor=2d3436" alt="USENIX Security papers"></a>
   <span class="stat-badge"><img src="https://img.shields.io/badge/Patents-2-0f6e4f?style=flat-square&amp;labelColor=2d3436" alt="Patents"></span>
+  <a class="stat-badge" href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&amp;hl=en" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Citations-600%2B-0046d5?style=flat-square&amp;labelColor=2d3436&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar citations"></a>
 </section>
 
 <section class="profile-section education">
@@ -70,9 +71,10 @@ redirect_from:
 <section class="profile-section impact">
   <h2>🌟 Research Impact</h2>
   <ul>
-    <li>Pioneered <b>reference-based visual phishing detection</b>: <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a> was the first system of its kind, anchoring a widely-used open-source ecosystem (PhishIntention, DynaPhish, PhishLLM) — see the live GitHub stars below.</li>
-    <li>Research transferred to practice through <b>two patents</b> filed with industry partners (Trustwave, Singtel).</li>
-    <li>Recognized by multiple national and international awards, including the China International College Students' Innovation Competition and the NUS Dean's Graduate Research Excellence Award.</li>
+    <li><b>Deployed in production at Singtel.</b> My phishing-detection research has been deployed in Singtel's real-world internet environment, reaching <b>98% precision</b> (about <b>+70 percentage points</b> over prior baselines) and surfacing <b>500+ zero-day scam websites per day</b>.</li>
+    <li><b>Adopted and cited across academia and industry.</b> My work has been cited and followed by researchers at Georgia Tech, UIUC, Purdue, Arizona State, and UC Santa Barbara, and by industry security teams at PayPal, Amazon, Norton, and Singtel Trustwave — with <b>600+ citations</b> on Google Scholar.</li>
+    <li><b>Recognized and transferred to practice.</b> The work is protected by a Singapore patent, was covered by Singapore's leading newspaper <i>Lianhe Zaobao</i>, and is being integrated into the Huawei HarmonyOS browser (model quantization, compression, and inference acceleration completed).</li>
+    <li><b>Pioneered reference-based visual phishing detection.</b> <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a> was the first system of its kind, anchoring a widely-used open-source ecosystem (PhishIntention, DynaPhish, PhishLLM) — see the live GitHub stars below.</li>
   </ul>
 </section>
 
@@ -231,7 +233,9 @@ redirect_from:
 <section class="profile-section awards">
 <h2>🏆 Awards</h2>
   <ul>
-  <li><em>2025.</em> China International College Students' Innovation Competition 2025 Silver Medal <br> 中国国际大学生创新大赛2025（互联网+）国际项目全国银奖（全国前0.01%）</li>
+  <li><em>2025.</em> CAICT (China Academy of Information and Communications Technology) — Outstanding Case, 1st "Intelligent Software Testing Pioneer" Program <br> 中国信息通信研究院"首届智能化软件测试领航者典型案例"</li>
+  <li><em>2025.</em> CCF ChinaSoft 2025 Prototype System Competition — First Place (Rank 1/22)</li>
+  <li><em>2025.</em> China International College Students' Innovation Competition 2025 (Higher-Education Main Track) — National Silver Medal (top 0.01% of 6.19M projects) <br> 中国国际大学生创新大赛2025（互联网+）高教主赛道全国银奖（全国前0.01%，共619万参赛项目）</li>
   <li><em>2025.</em> China International College Students' Innovation Competition 2025 (SEA) First Place <br> 中国国际大学生创新大赛2025（互联网+）国际项目东南亚赛区第一名</li>
   <li><em>2024.</em> China International College Students' Innovation Competition 2024 Bronze Medal <br> 中国国际大学生创新大赛2024（互联网+）国际项目全国铜奖（全国前0.04%）</li>
   <li><em>2024.</em> China International College Students' Innovation Competition 2024 (Shanghai) Silver Medal <br> 中国国际大学生创新大赛2024（互联网+）国际项目（上海赛区）专项赛银奖</li>
@@ -256,11 +260,10 @@ redirect_from:
 <section class="profile-section service">
   <h2>💪 Service</h2>
   <ul>
-    <li><em>2026.</em> Reviewer for AAAI 2026.</li>
-    <li><em>2025.</em> Senior PC for CIKM 2025.</li>
-    <li><em>2025.</em> Reviewer for NeurIPS 2025.</li>
-    <li><em>2024.</em> Reviewer for the Transactions on Information Forensics &amp; Security.</li>
-    <li><em>2023.</em> Reviewer for the 28th IEEE Pacific Rim International Symposium on Dependable Computing.</li>
+    <li><em>2026.</em> Program Committee — FSE 2026, NDSS MADWeb 2026, and CIKM 2026.</li>
+    <li><em>2025.</em> Senior Program Committee — CIKM 2025.</li>
+    <li><em>2023.</em> Program Committee — 28th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2023).</li>
+    <li>Reviewer — AAAI, NeurIPS, ICLR, CVPR, and IEEE Transactions on Information Forensics &amp; Security (TIFS).</li>
   </ul>
 </section>
 
