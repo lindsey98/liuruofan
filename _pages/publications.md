@@ -39,6 +39,8 @@ author_profile: true
                 <li>Xiwen Teoh, Yun Lin, Siqi Li, <strong>Ruofan Liu</strong>, Avi Sollomoni, Yaniv Harel, and Jin Song Dong.
                 "Are CAPTCHAs Still Bot-hard? Generalized Visual CAPTCHA Solving with Agentic Vision Language Model."
                 <em>USENIX Security 2025.</em>
+                <a href="https://www.usenix.org/system/files/usenixsecurity25-teoh.pdf">[Paper]</a>
+                <a href="https://zenodo.org/records/15580923">[Code]</a>
                 </li>
         </ul>
         <h2>2024</h2>
@@ -46,13 +48,13 @@ author_profile: true
             <li><strong>Ruofan Liu</strong>, Yun Lin, Xiwen Teoh, Gongshen Liu, Zhiyong Huang, and Jin Song Dong.
             "Less Defined Knowledge and More True Alarms: Reference-based Phishing Detection without a Pre-defined Reference List."
             <em>USENIX Security 2024.</em>
-            <a href="http://linyun.info/publications/usenix-sec24b.pdf">[Paper]</a>
+            <a href="https://www.usenix.org/system/files/usenixsecurity24-liu-ruofan.pdf">[Paper]</a>
             <a href="https://github.com/code-philia/PhishLLM/">[Code]</a>
             </li>
             <li>Xiwen Teoh, Yun Lin, <strong>Ruofan Liu</strong>, Zhiyong Huang, and Jin Song Dong.
             "PhishDecloaker: Detecting CAPTCHA-cloaked Phishing Websites via Hybrid Vision-based Interactive Models."
             <em>USENIX Security 2024.</em>
-            <a href="http://linyun.info/publications/usenix-sec24a.pdf">[Paper]</a>
+            <a href="https://www.usenix.org/system/files/usenixsecurity24-teoh.pdf">[Paper]</a>
             <a href="https://github.com/code-philia/PhishDecloaker">[Code]</a>
             </li>
         </ul>
@@ -61,13 +63,13 @@ author_profile: true
             <li><strong>Ruofan Liu</strong>, Yun Lin, Yifan Zhang, Penn Han Lee, and Jin Song Dong.
             "Knowledge Expansion and Counterfactual Interaction for Reference-Based Phishing Detection."
             <em>USENIX Security 2023.</em>
-            <a href="http://linyun.info/publications/usenix-sec23.pdf">[Paper]</a>
+            <a href="https://www.usenix.org/system/files/usenixsecurity23-liu-ruofan.pdf">[Paper]</a>
             <a href="https://github.com/code-philia/Dynaphish">[Code]</a>
             </li>
             <li>Xiaoning Ren, Yun Lin, Yinxing Xue, <strong>Ruofan Liu</strong>, Jun Sun, Zhiyong Feng, and Jin Song Dong.
             "DeepArc: Modularizing Neural Networks for the Model Maintenance."
             <em>International Conference on Software Engineering (ICSE) 2023.</em>
-            <a href="http://linyun.info/publications/icse23.pdf">[Paper]</a>
+            <a href="https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=10316&amp;context=sis_research">[Paper]</a>
             </li>
         </ul>
         <h2>2022</h2>
@@ -90,7 +92,7 @@ author_profile: true
             <li><strong>Ruofan Liu</strong>, Yun Lin, Xianglin Yang, Siang Hwee Ng, Dinil Mon Divakaran, and Jin Song Dong.
             "Inferring Phishing Intention via Webpage Appearance and Dynamics: A Deep Vision Based Approach."
             <em>USENIX Security 2022.</em>
-            <a href="http://linyun.info/publications/usenix22.pdf">[Paper]</a>
+            <a href="https://www.usenix.org/system/files/sec22-liu-ruofan.pdf">[Paper]</a>
             <a href="https://github.com/lindsey98/PhishIntention">[Code]</a>
             <a href="https://sites.google.com/view/phishintention/home">[Website]</a>
             </li>
@@ -108,7 +110,7 @@ author_profile: true
             <li>Yun Lin<strong>#</strong>, <strong>Ruofan Liu#</strong>, Dinil Mon Divakaran, Jun Yang Ng, Qing Zhou Chan, Yiwen Lu, Yuxuan Si, Fan Zhang, and Jin Song Dong.
             "Phishpedia: A Hybrid Deep Learning Based Approach to Visually Identify Phishing Webpages."
             <em>USENIX Security 2021.</em>
-            <a href="http://linyun.info/publications/usenix21.pdf">[Paper]</a>
+            <a href="https://www.usenix.org/system/files/sec21-lin.pdf">[Paper]</a>
             <a href="https://github.com/lindsey98/Phishpedia">[Code]</a>
             <a href="https://sites.google.com/view/phishpedia-site/home">[Website]</a>
             <a href="https://www.youtube.com/watch?v=-DlaLALXDnM">[Video]</a>
