@@ -45,7 +45,7 @@ redirect_from:
 </li>
 <li>
   <div style="display: flex; align-items: flex-start; gap: 15px;">
-    <img src="images/trainref.pdf" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
+    <img src="images/trainref.png" alt="Thumbnail" style="width: 500px; height: auto; border: 1px solid #ddd; border-radius: 5px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);">
     <div>
       Murong Ma, <b>Ruofan Liu</b>, Yun Lin, Zhiyong Huang, and Jin Song Dong. <br>
       <em>TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence</em>. 
