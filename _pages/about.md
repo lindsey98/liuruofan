@@ -61,6 +61,9 @@ redirect_from:
 <ul class="pub-list">
 
 <li class="pub-item">
+  <div class="pub-thumb">
+    <img src="images/xsearch.png" alt="XSearch">
+  </div>
   <div class="pub-info">
     <span class="pub-venue">ISSTA 2026</span>
     <span class="pub-authors">Yiming Liu#, <b>Ruofan Liu</b>#, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, and Linpeng Huang.</span>
