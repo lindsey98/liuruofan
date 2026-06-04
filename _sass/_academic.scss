@@ -258,6 +258,30 @@ $accent-color: #0046d5;
   }
 }
 
+/* Highlight stats bar
+   ========================================================================== */
+
+.stats-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+  margin: -0.5em 0 1.75em;
+}
+
+.stat-badge {
+  border-bottom: none !important;
+
+  &:hover {
+    border-bottom: none !important;
+  }
+
+  img {
+    height: 20px;
+    vertical-align: middle;
+  }
+}
+
 /* Sidebar author profile
    ========================================================================== */
 

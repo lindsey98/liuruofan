@@ -39,6 +39,13 @@ redirect_from:
   </p>
 </section>
 
+<section class="stats-bar">
+  <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/Publications-13-0046d5?style=flat-square" alt="Publications"></a>
+  <a class="stat-badge" href="{{ base_path }}/publications/"><img src="https://img.shields.io/badge/USENIX_Security-6-0a3d62?style=flat-square" alt="USENIX Security papers"></a>
+  <span class="stat-badge"><img src="https://img.shields.io/badge/Patents-2-6c3483?style=flat-square" alt="Patents"></span>
+  <a class="stat-badge" href="https://scholar.google.com/citations?user=g2M2UwsAAAAJ&amp;hl=en" target="_blank" rel="noopener"><img src="https://img.shields.io/endpoint?url=https://cdn.jsdelivr.net/gh/lindsey98/liuruofan@google-scholar-stats/results/gs_data_shieldsio.json&amp;style=flat-square&amp;logo=googlescholar&amp;logoColor=white&amp;color=0046d5" alt="Google Scholar citations"></a>
+</section>
+
 <section class="profile-section education">
 <h2>📚 Education</h2>
   <ul>
@@ -52,6 +59,15 @@ redirect_from:
   <h2>🔥 News</h2>
   <ul class="news-list">
     <li><em>2026</em> &mdash; Our paper <em>"XSearch: Explainable Code Search via Concept-to-Code Alignment"</em> is accepted at ISSTA 2026!</li>
+  </ul>
+</section>
+
+<section class="profile-section impact">
+  <h2>🌟 Research Impact</h2>
+  <ul>
+    <li>Pioneered <b>reference-based visual phishing detection</b>: <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a> was the first system of its kind, anchoring a widely-used open-source ecosystem (PhishIntention, DynaPhish, PhishLLM) — see the live GitHub stars below.</li>
+    <li>Research transferred to practice through <b>two patents</b> filed with industry partners (Trustwave, Singtel).</li>
+    <li>Recognized by multiple national and international awards, including the China International College Students' Innovation Competition and the NUS Dean's Graduate Research Excellence Award.</li>
   </ul>
 </section>
 
