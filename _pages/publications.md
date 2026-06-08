@@ -16,6 +16,12 @@ author_profile: true
 <section class="publications">
         <h2>2026</h2>
         <ul>
+                <li><strong>Ruofan Liu</strong>, Yun Lin, Zhiyong Huang, and Jin Song Dong.
+                "DRIP: Defending Prompt Injection via Token-wise Representation Editing and Residual Fusion."
+                <em>ACM CCS 2026.</em>
+                <a href="{{ base_path }}/files/DRIP_paper.pdf">[Paper]</a>
+                <a href="https://github.com/lindsey98/PromptInjection">[Code]</a>
+                </li>
                 <li>Yiming Liu<strong>#</strong>, <strong>Ruofan Liu#</strong>, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, and Linpeng Huang.
                 "XSearch: Explainable Code Search via Concept-to-Code Alignment."
                 <em>ISSTA 2026.</em>
@@ -26,6 +32,12 @@ author_profile: true
                 <em>ICLR 2026.</em>
                 <a href="https://openreview.net/pdf?id=jSs8CDsF0A">[Paper]</a>
                 <a href="https://github.com/xaimm/TrainRef/tree/main">[Code]</a>
+                </li>
+                <li>Keke Ding, Ruimin Xu, Xiaowen Chao, Mengci Li, Tao Sun, Tianbiao Yang, Min Zhu, Xufei Peng, <strong>Ruofan Liu</strong>, Peiyang Luo, Guoli Tian, Yun Lin, Guoxiang Xie, Xiaojiao Zheng, Lu Zhang, Wei Jia, and Tianlu Chen.
+                "Amino acid-based biological age clock and its implications for human health and aging."
+                <em>Nature Communications, 2026.</em>
+                <a href="https://www.nature.com/articles/s41467-026-73371-y">[Paper]</a>
+                <a href="https://github.com/chentianlu/AmiAge">[Code]</a>
                 </li>
         </ul>
         <h2>2025</h2>
