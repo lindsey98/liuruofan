@@ -68,14 +68,6 @@ redirect_from:
   </ul>
 </section>
 
-<section class="profile-section impact">
-  <h2>🌟 Research Impact</h2>
-  <ul>
-    <li><b>Real-world deployment.</b> My phishing-detection research has been deployed in Singtel's production internet environment, reaching <b>98% precision</b> (about <b>+70 percentage points</b> over prior baselines) and surfacing <b>500+ zero-day scam websites per day</b>.</li>
-    <li><b>Open-source ecosystem.</b> I build and maintain open-source phishing detectors — <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a>, PhishIntention, DynaPhish, and PhishLLM — used and built upon by the research community (see the GitHub stars below).</li>
-  </ul>
-</section>
-
 <section class="profile-section publications">
 <h2>📝 Selected Publications</h2>
 
@@ -93,22 +85,6 @@ redirect_from:
       <a href="{{ base_path }}/files/DRIP_paper.pdf"><i class="fa fa-file-pdf"></i>Paper</a>
       <a href="https://github.com/lindsey98/PromptInjection"><i class="fa fa-github"></i>Code</a>
       <a class="star-badge-link" href="https://github.com/lindsey98/PromptInjection/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/lindsey98/PromptInjection?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
-    </div>
-  </div>
-</li>
-
-<li class="pub-item">
-  <div class="pub-thumb">
-    <a href="images/trainref.png" class="image-popup" title="TrainRef"><img src="images/trainref.png" alt="TrainRef"></a>
-  </div>
-  <div class="pub-info">
-    <span class="pub-venue">ICLR 2026</span>
-    <span class="pub-authors">Murong Ma, <b>Ruofan Liu</b>, Yun Lin, Zhiyong Huang, and Jin Song Dong.</span>
-    <span class="pub-title">TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence</span>
-    <div class="pub-links">
-      <a href="https://openreview.net/pdf?id=jSs8CDsF0A"><i class="fa fa-file-pdf"></i>Paper</a>
-      <a href="https://github.com/xaimm/TrainRef/tree/main"><i class="fa fa-github"></i>Code</a>
-      <a class="star-badge-link" href="https://github.com/xaimm/TrainRef/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/xaimm/TrainRef?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
     </div>
   </div>
 </li>
