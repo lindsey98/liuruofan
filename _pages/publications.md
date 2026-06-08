@@ -16,6 +16,12 @@ author_profile: true
 <section class="publications">
         <h2>2026</h2>
         <ul>
+                <li><strong>Ruofan Liu</strong>, Yun Lin, Zhiyong Huang, and Jin Song Dong.
+                "DRIP: Defending Prompt Injection via Token-wise Representation Editing and Residual Fusion."
+                <em>ACM CCS 2026.</em>
+                <a href="{{ base_path }}/files/DRIP_paper.pdf">[Paper]</a>
+                <a href="https://github.com/lindsey98/PromptInjection">[Code]</a>
+                </li>
                 <li>Yiming Liu<strong>#</strong>, <strong>Ruofan Liu#</strong>, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, and Linpeng Huang.
                 "XSearch: Explainable Code Search via Concept-to-Code Alignment."
                 <em>ISSTA 2026.</em>

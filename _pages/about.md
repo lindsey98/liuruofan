@@ -63,6 +63,7 @@ redirect_from:
 <section class="profile-section news">
   <h2>🔥 News</h2>
   <ul class="news-list">
+    <li><em>2026</em> &mdash; Our paper <em>"DRIP: Defending Prompt Injection via Token-wise Representation Editing and Residual Fusion"</em> is accepted at ACM CCS 2026!</li>
     <li><em>2026</em> &mdash; Our paper <em>"XSearch: Explainable Code Search via Concept-to-Code Alignment"</em> is accepted at ISSTA 2026!</li>
   </ul>
 </section>
@@ -79,6 +80,22 @@ redirect_from:
 <h2>📝 Selected Publications</h2>
 
 <ul class="pub-list">
+
+<li class="pub-item">
+  <div class="pub-thumb">
+    <a href="images/drip-thumb.png" class="image-popup" title="DRIP"><img src="images/drip-thumb.png" alt="DRIP"></a>
+  </div>
+  <div class="pub-info">
+    <span class="pub-venue">ACM CCS 2026</span>
+    <span class="pub-authors"><b>Ruofan Liu</b>, Yun Lin, Zhiyong Huang, and Jin Song Dong.</span>
+    <span class="pub-title">DRIP: Defending Prompt Injection via Token-wise Representation Editing and Residual Fusion</span>
+    <div class="pub-links">
+      <a href="{{ base_path }}/files/DRIP_paper.pdf"><i class="fa fa-file-pdf"></i>Paper</a>
+      <a href="https://github.com/lindsey98/PromptInjection"><i class="fa fa-github"></i>Code</a>
+      <a class="star-badge-link" href="https://github.com/lindsey98/PromptInjection/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/lindsey98/PromptInjection?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
+    </div>
+  </div>
+</li>
 
 <li class="pub-item">
   <div class="pub-thumb">
