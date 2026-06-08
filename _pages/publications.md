@@ -29,7 +29,7 @@ author_profile: true
                 </li>
                 <li>Murong Ma, <strong>Ruofan Liu</strong>, Yun Lin, Zhiyong Huang, and Jin Song Dong.
                 "TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence."
-                <em>ICLR 2026.</em>
+                <em>ICLR 2026.</em> (Co-corresponding author)
                 <a href="https://openreview.net/pdf?id=jSs8CDsF0A">[Paper]</a>
                 <a href="https://github.com/xaimm/TrainRef/tree/main">[Code]</a>
                 </li>
