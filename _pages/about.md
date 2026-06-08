@@ -99,20 +99,6 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <a href="images/xsearch.png" class="image-popup" title="XSearch"><img src="images/xsearch.png" alt="XSearch"></a>
-  </div>
-  <div class="pub-info">
-    <span class="pub-venue">ISSTA 2026</span>
-    <span class="pub-authors">Yiming Liu#, <b>Ruofan Liu</b>#, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, and Linpeng Huang.</span>
-    <span class="pub-title">XSearch: Explainable Code Search via Concept-to-Code Alignment</span>
-    <div class="pub-links">
-      <a href="https://arxiv.org/pdf/2605.16046"><i class="fa fa-file-pdf"></i>Paper</a>
-    </div>
-  </div>
-</li>
-
-<li class="pub-item">
-  <div class="pub-thumb">
     <a href="images/trainref.png" class="image-popup" title="TrainRef"><img src="images/trainref.png" alt="TrainRef"></a>
   </div>
   <div class="pub-info">
