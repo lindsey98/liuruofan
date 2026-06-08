@@ -91,22 +91,6 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <a href="images/trainref.png" class="image-popup" title="TrainRef"><img src="images/trainref.png" alt="TrainRef"></a>
-  </div>
-  <div class="pub-info">
-    <span class="pub-venue">ICLR 2026</span>
-    <span class="pub-authors">Murong Ma, <b>Ruofan Liu</b>, Yun Lin, Zhiyong Huang, and Jin Song Dong.</span>
-    <span class="pub-title">TrainRef: Curating Data with Label Distribution and Minimal Reference for Accurate Prediction and Reliable Confidence</span>
-    <div class="pub-links">
-      <a href="https://openreview.net/pdf?id=jSs8CDsF0A"><i class="fa fa-file-pdf"></i>Paper</a>
-      <a href="https://github.com/xaimm/TrainRef/tree/main"><i class="fa fa-github"></i>Code</a>
-      <a class="star-badge-link" href="https://github.com/xaimm/TrainRef/stargazers" target="_blank" rel="noopener"><img class="star-badge" src="https://img.shields.io/github/stars/xaimm/TrainRef?style=flat-square&amp;logo=github&amp;logoColor=white&amp;label=stars&amp;color=0046d5" alt="GitHub stars"></a>
-    </div>
-  </div>
-</li>
-
-<li class="pub-item">
-  <div class="pub-thumb">
     <a href="images/guipilot.png" class="image-popup" title="GUIPilot"><img src="images/guipilot.png" alt="GUIPilot"></a>
   </div>
   <div class="pub-info">
