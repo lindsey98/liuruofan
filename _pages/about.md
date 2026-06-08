@@ -68,14 +68,6 @@ redirect_from:
   </ul>
 </section>
 
-<section class="profile-section impact">
-  <h2>🌟 Research Impact</h2>
-  <ul>
-    <li><b>Real-world deployment.</b> My phishing-detection research has been deployed in Singtel's production internet environment, reaching <b>98% precision</b> (about <b>+70 percentage points</b> over prior baselines) and surfacing <b>500+ zero-day scam websites per day</b>.</li>
-    <li><b>Open-source ecosystem.</b> I build and maintain open-source phishing detectors — <a href="https://github.com/lindsey98/Phishpedia">Phishpedia</a>, PhishIntention, DynaPhish, and PhishLLM — used and built upon by the research community (see the GitHub stars below).</li>
-  </ul>
-</section>
-
 <section class="profile-section publications">
 <h2>📝 Selected Publications</h2>
 
