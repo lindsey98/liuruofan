@@ -33,6 +33,12 @@ author_profile: true
                 <a href="https://openreview.net/pdf?id=jSs8CDsF0A">[Paper]</a>
                 <a href="https://github.com/xaimm/TrainRef/tree/main">[Code]</a>
                 </li>
+                <li>Keke Ding, Ruimin Xu, Xiaowen Chao, Mengci Li, Tao Sun, Tianbiao Yang, Min Zhu, Xufei Peng, <strong>Ruofan Liu</strong>, Peiyang Luo, Guoli Tian, Yun Lin, Guoxiang Xie, Xiaojiao Zheng, Lu Zhang, Wei Jia, and Tianlu Chen.
+                "Amino acid-based biological age clock and its implications for human health and aging."
+                <em>Nature Communications, 2026.</em>
+                <a href="https://www.nature.com/articles/s41467-026-73371-y">[Paper]</a>
+                <a href="https://github.com/chentianlu/AmiAge">[Code]</a>
+                </li>
         </ul>
         <h2>2025</h2>
         <ul>
