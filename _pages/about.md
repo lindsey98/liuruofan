@@ -74,7 +74,7 @@ redirect_from:
 
 <li class="pub-item">
   <div class="pub-thumb">
-    <a href="images/pimref-thumb.png" class="image-popup" title="DRIP"><img src="images/drip-thumb.png" alt="DRIP"></a>
+    <a href="images/pimref-thumb.png" class="image-popup" title="PimRef"><img src="images/pimref-thumb.png" alt="PimRef"></a>
   </div>
   <div class="pub-info">
     <span class="pub-venue">ACM CCS 2026</span>
