@@ -20,13 +20,13 @@ author_profile: true
                 <li><strong>Ruofan Liu</strong>, Yun Lin, Yuxin Wang, Xiwen Teoh, Zhenkai Liang, Gongshen Liu, Haojin Zhu, and Jin Song Dong.
                 "PiMRef: Deducing Ever-evolving Spear-phishing Emails with Knowledge Base Invariants."
                 <em>ACM CCS 2026.</em>
-                <a href="{{ base_path }}/files/pimref_paper.pdf">[Paper]</a>
+                <a href="https://lindsey98.github.io/liuruofan//files/pimref_paper.pdf">[Paper]</a>
                 <a href="https://github.com/lindsey98/PhishEmail">[Code]</a>
                 </li>
                 <li><strong>Ruofan Liu</strong>, Yun Lin, Zhiyong Huang, and Jin Song Dong.
                 "DRIP: Defending Prompt Injection via Token-wise Representation Editing and Residual Fusion."
                 <em>ACM CCS 2026.</em>
-                <a href="{{ base_path }}/files/DRIP_paper.pdf">[Paper]</a>
+                <a href="https://lindsey98.github.io/liuruofan/files/DRIP_paper.pdf">[Paper]</a>
                 <a href="https://github.com/lindsey98/PromptInjection">[Code]</a>
                 </li>
                 <li>Yiming Liu<strong>#</strong>, <strong>Ruofan Liu#</strong>, Yun Lin, Zicong Zhang, Weiyu Kong, Pengnian Qi, Xiao Cheng, Weinan Zhang, Qianxiang Wang, and Linpeng Huang.
